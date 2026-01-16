@@ -1,0 +1,59 @@
+---
+layout: default
+title: 動画で学ぶブロックチェーン
+permalink: /category/video/
+---
+<ul id="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a href="{{ '/' | relative_url }}" itemprop="item"><span itemprop="name"><i class="fa fa-home" aria-hidden="true"></i> home</span></a>
+    <meta itemprop="position" content="1" />
+  </li>
+  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a href="{{ '/category/video/' | relative_url }}" itemprop="item"><span itemprop="name">動画で学ぶブロックチェーン</span></a>
+    <meta itemprop="position" content="2" />
+  </li>
+</ul>
+<main id="main" style="float:left" role="main">
+  <div class="wrap-post-title">動画で学ぶブロックチェーンの記事一覧</div>
+  <section class="wrap-grid-post-box inline-nospace">
+    {% assign video_posts = site.posts | where_exp: "post", "post.categories contains 'video'" %}
+    {% for post in video_posts %}
+    <article class="grid_post-box" role="article">
+      <div class="post-box-contents clearfix" data-href="{{ post.url | relative_url }}">
+        <figure class="grid_post_thumbnail">
+          <div class="post_thumbnail_wrap">
+            {% if post.thumbnail %}
+            <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+            {% else %}
+            <img src="{{ '/assets/images/gbec-logo.png' | relative_url }}" alt="{{ post.title }}">
+            {% endif %}
+          </div>
+        </figure>
+        <section class="post-meta-all">
+          <div class="post-cat" style="background:#68bc3a"><a href="{{ '/category/video/' | relative_url }}" rel="category tag">動画で学ぶブロックチェーン</a></div>
+          <div class="post-title">
+            <a href="{{ post.url | relative_url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+          </div>
+          <div class="post-substr">
+            {{ post.content | strip_html | truncate: 120 }}
+          </div>
+        </section>
+        <time datetime="{{ post.date | date: '%Y-%m-%d' }}" class="post-date">
+          {{ post.date | date: "%Y年%m月%d日" }}
+        </time>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
+</main>
+<div id="sidebar" style="float:right;" role="complementary">
+  <div class="sidebar_content">
+    <div class="widget">
+      <div class="widgettitle">カテゴリー</div>
+      <ul>
+        <li><a href="{{ '/category/video/' | relative_url }}">動画で学ぶブロックチェーン</a></li>
+        <li><a href="{{ '/category/news/' | relative_url }}">お知らせ</a></li>
+      </ul>
+    </div>
+  </div>
+</div>

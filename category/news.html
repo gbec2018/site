@@ -1,0 +1,40 @@
+---
+layout: default
+title: お知らせ
+permalink: /category/news/
+---
+<main id="page-main" style="float:none" role="main">
+  <article class="hentry">
+    <header>
+      <div class="post-meta clearfix">
+        <h1 class="single-post-title">お知らせ</h1>
+      </div>
+    </header>
+    <section class="single-post-main">
+      <div class="content">
+        <ul class="sc_article grid" style="height:auto;">
+          {% assign news_posts = site.posts | where_exp: "post", "post.categories contains 'news'" %}
+          {% for post in news_posts %}
+          <a class="clearfix" href="{{ post.url | relative_url }}">
+            <li>
+              <figure class="post_list_thumb">
+                {% if post.thumbnail %}
+                <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+                {% else %}
+                <img src="{{ '/assets/images/gbec-logo.png' | relative_url }}" alt="{{ post.title }}">
+                {% endif %}
+              </figure>
+              <div class="meta">
+                <span class="sc_article_cat" style="background:#a6438c;">お知らせ</span>
+                <div class="sc_article_title">{{ post.title }}</div>
+                <div class="sc_article_excerpt">{{ post.content | strip_html | truncate: 80 }}</div>
+                <div class="sc_article_date">{{ post.date | date: "%Y年%m月%d日" }}</div>
+              </div>
+            </li>
+          </a>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+  </article>
+</main>

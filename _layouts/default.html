@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<!-- Diver OGP -->
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+{% if page.thumbnail %}<meta property="og:image" content="{{ page.thumbnail | absolute_url }}">{% endif %}
+<meta property="og:site_name" content="{{ site.title }}">
+<!-- / Diver OGP -->
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="shortcut icon" href="{{ '/assets/images/gbec-icon.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/images/gbec-icon.png' | relative_url }}">
+<!-- CSS -->
+<link rel="stylesheet" href="{{ '/assets/css/diver/style.css' | relative_url }}" media="all">
+<link rel="stylesheet" href="{{ '/assets/css/diver/child-style.css' | relative_url }}" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.1/css/swiper.min.css" media="all">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.3.1/lity.min.css" media="all">
+<link rel="stylesheet" href="{{ '/assets/css/diver/prism.css' | relative_url }}" media="all">
+<!-- Original site inline styles -->
+<style>
+#onlynav ul ul,#nav_fixed #nav ul ul,.header-logo #nav ul ul {
+  visibility: hidden;
+  opacity: 0;
+  transition: .2s ease-in-out;
+  transform: translateY(10px);
+}
+#onlynav ul ul ul,#nav_fixed #nav ul ul ul,.header-logo #nav ul ul ul {
+  transform: translateX(-20px) translateY(0);
+}
+#onlynav ul li:hover > ul,#nav_fixed #nav ul li:hover > ul,.header-logo #nav ul li:hover > ul{
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0);
+}
+#onlynav ul ul li:hover > ul,#nav_fixed #nav ul ul li:hover > ul,.header-logo #nav ul ul li:hover > ul{
+  transform: translateX(0) translateY(0);
+}
+</style>
+<style>
+body{background: #efefef;color: #333333;}
+a{color: #333355;}
+a:hover{color: #6495ED}
+
+.content{color:#000;}
+.content a{color:#6f97bc;}
+.content a:hover{color:#6495ED;}
+
+.header-wrap,#header ul.sub-menu, #header ul.children,#scrollnav,.description_sp{background: #ffffff;color: #333333}
+.header-wrap a,#scrollnav a,div.logo_title{color: #333355;}
+.header-wrap a:hover,div.logo_title:hover{color: #6495ED}
+.drawer-nav-btn span{background-color: #333355;}
+.drawer-nav-btn:before,.drawer-nav-btn:after {border-color:#333355;}
+
+#scrollnav ul li a{background: rgba(255,255,255,.8);color:#505050 }
+
+.header_small_menu{background: #5d8ac1;color: #fff}
+.header_small_menu a{color: #fff}
+.header_small_menu a:hover{color: #6495ED}
+
+#nav_fixed.fixed, #nav_fixed #nav ul ul{background: #ffffff;color: #333333}
+#nav_fixed.fixed a,#nav_fixed .logo_title{color: #333355}
+#nav_fixed.fixed a:hover{color: #6495ED}
+
+#onlynav{background: #fff;color: #333}
+#onlynav ul li a{color: #333}
+#onlynav ul ul.sub-menu{background: #fff}
+#onlynav div > ul > li > a:before{border-color: #333}
+#onlynav ul > li:hover > a:hover,#onlynav ul>li:hover>a,#onlynav ul>li:hover li:hover>a,#onlynav ul li:hover ul li ul li:hover > a{background: #5d8ac1;color: #fff}
+#onlynav ul li ul li ul:before{border-left-color: #fff}
+#onlynav ul li:last-child ul li ul:before{border-right-color: #fff}
+
+#bigfooter{background: #fff;color: #333333}
+#bigfooter a{color: #333355}
+#bigfooter a:hover{color: #6495ED}
+
+#footer{background: #fff;color: #999}
+#footer a{color: #333355}
+#footer a:hover{color: #6495ED}
+
+#sidebar .widget{background: #fff;color:#333; }
+#sidebar .widget a,.widget_archive select, .widget_categories select{color:#333355;}
+#sidebar .widget a:hover{color:#6495ED;}
+.post-box-contents,#main-wrap #pickup_posts_container img,.hentry, #single-main .post-sub,.navigation,.single_thumbnail,.in_loop,#breadcrumb,.pickup-cat-list,.maintop-widget, .mainbottom-widget,#share_plz,.sticky-post-box,.catpage_content_wrap,.cat-post-main{background:#fff;}
+
+.post-box{border-color:#eee;}
+
+.drawer_content_title,.searchbox_content_title{background:#eee;color: #333;}
+
+#footer_sticky_menu{background: rgba(255,255,255,.8)}
+.footermenu_col{background: rgba(255,255,255,.8);color:#333;}
+
+a.page-numbers{background: #afafaf;color: #fff;}
+.pagination .current{background: #607d8b;color: #fff;}
+</style>
+<style type="text/css" id="wp-custom-css">
+.sc_article.grid > a,.sc_article.list > a{
+    width: 98%;
+    margin-left:1%;
+    display: inline-block;
+    vertical-align: top;
+}
+.sc_article.grid > a,.sc_article.list > a {
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+  margin-top: 20px;
+  transition: .4s;
+}
+.sc_article.grid li,.sc_article.list li {
+    white-space: normal;
+    overflow: auto;
+    padding: 0;
+    margin: 0;
+    color: #000;
+}
+.sc_article.grid li .meta,.sc_article.list li .meta {
+    padding: 15px;
+    overflow: auto;
+}
+.sc_article.grid .post_list_thumb,.sc_article.list .post_list_thumb{
+  position: relative;
+  background-color: #eee;
+}
+.sc_article.list .post_list_thumb{
+  float: left;
+  width: 0px;
+  height: 0px;
+}
+.sc_article.grid .post_list_thumb img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border: none;
+    box-shadow: none;
+    margin: 0;
+}
+.sc_article.grid .sc_article_title,.sc_article.list .sc_article_title {
+    font-size: 14px;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    min-height: calc(2em + 16px);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+.sc_article.grid .sc_article_date,.sc_article.list .sc_article_date{
+    font-size: 0.8em;
+    width: 100%;
+}
+.sc_article_cat{
+    color: #fff;
+}
+.sc_article_excerpt{
+    font-size: 0.8em;
+}
+.btn-gradation {
+  display: inline-block;
+  width: 95%;
+  margin: 0 2.5%;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  font-size:1em;
+  line-height:0.8;
+  padding: 18px 0px 18px;
+  background-image: linear-gradient(-90deg, #036EB7, #8DC21F);
+  transition: .5s;
+  background-size: 200%;
+  position: relative;
+  overflow: hidden;
+}
+.btn-gradation:hover {
+  background-position: right center;
+}
+.cp_h1title {
+  position: relative;
+  margin: 0;
+  color: #fff;
+  overflow: hidden;
+  padding: 20px 25px 20px 50px;
+  margin-bottom: 10px;
+  font-size: 1.0em;
+}
+.cp_h1title:before{
+  background-color: #000;
+  content: '';
+  display: block;
+  transform: rotate(-60deg);
+  position: absolute;
+  bottom: 0px;
+  left: -157px;
+  width: 200px;
+  height: 200px;
+}
+.ribbon12 {
+  display: inline-block;
+  position: relative;
+  line-height:1.0;
+  box-sizing: border-box;
+  background-image: linear-gradient(-90deg, #EC3BBE, #7A5FC4);
+  transition: .5s;
+  background-size: 200%;
+  overflow: hidden;
+  padding: 21px;
+  margin: 0 0 0 0px;
+  width: 80%;
+  font-size: 1.0em;
+  color: white;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+}
+.ribbon12:hover {
+  background-position: right center;
+  box-shadow: 3px 3px 3px #FFA6EC;
+}
+.ribbon12 i{
+  font-size:1.1em;
+  padding-top:10px;
+  margin-right:0.3em;
+}
+.ribbon12 span{
+  font-size:0.7em;
+}
+.ribbon12:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  border-width: 0px 0px 75px 45px;
+  border-color: transparent transparent transparent #000;
+  border-style: solid;
+}
+.pcimg { display: block !important; }
+.spimg { display: none !important; }
+@media (max-width: 780px) {
+  .pcimg { display: none !important; }
+  .spimg { display: block !important; margin-top:-15%; }
+}
+.su-row {
+  display: flex !important;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.su-column-size-2-5 {
+  width: 40%;
+  float: left;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.su-column-size-3-5 {
+  width: 60%;
+  float: left;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.su-column-size-1-3 {
+  width: 33.333%;
+  float: left;
+  box-sizing: border-box;
+}
+.aligncenter {
+  display: block;
+  margin: 0 auto;
+}
+.su-column-inner {
+  display: block;
+}
+@media (max-width: 780px) {
+  .su-column-size-2-5, .su-column-size-3-5 {
+    width: 100%;
+    float: none;
+  }
+}
+.diver_firstview_image {
+  background-repeat: repeat;
+  padding: 50px 20px;
+  min-height: 300px;
+  display: block;
+  overflow: hidden;
+}
+.firstview_content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.firstview_header_inner_content {
+  display: block;
+  overflow: hidden;
+}
+.su-column-inner img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.alignnone {
+  margin: 5px 0;
+}
+.youtube-container {
+  margin: 20px 0;
+}
+.youtube-container iframe {
+  width: 640px;
+  height: 360px;
+  max-width: 100%;
+}
+.profbox {
+  display: inline-block;
+  background-color: #fff;
+  width: 100%;
+  height: auto;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+}
+.profbox div {
+  padding: 0 7%;
+}
+.alignleft {
+  display: block;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.content h1 {
+  font-size: 1.8em;
+  margin: 10px 0 20px;
+  color: #333;
+  background: none;
+  padding: 0;
+}
+h2{color: #fff;}
+h3{color: #333;border:0;}
+h4{color: #666}
+h5{color: #666}
+.content h2{background: #607d8b;border-radius: 3px;}
+.content h3{border-bottom:2px solid #ffffff;background: #fff;border-radius: 0}
+.row.sp {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  gap: 15px;
+}
+.sc_col3 {
+  width: calc(33.333% - 10px);
+  padding: 0;
+  box-sizing: border-box;
+}
+@media (max-width: 959px) {
+  .sc_col3 {
+    width: calc(50% - 10px);
+  }
+}
+@media (max-width: 600px) {
+  .sc_col3 {
+    width: 100%;
+  }
+  .row.sp {
+    gap: 10px;
+  }
+}
+.row-fluid {
+  margin-top: 20px;
+}
+#page-top a{background:#047fd1;color:#fff;}
+.col4 { width: 25%; float: left; }
+.bigfooter_wrap { max-width: 1200px; margin: 0 auto; padding: 20px; overflow: hidden; }
+@media (max-width: 768px) {
+  .col4 { width: 100%; float: none; }
+}
+</style>
+<style>
+/* Grid layout for category pages */
+.grid_post-box .post-meta-all {
+    padding-bottom: 33px;
+}
+.grid_post-box .post-box-contents {
+    background: #fff;
+    box-shadow: 0 0 3px rgba(0,0,0,0.2);
+}
+.grid_post-box .post-title a {
+    color: #333;
+    text-decoration: none;
+}
+.grid_post-box .post-title a:hover {
+    color: #6495ED;
+}
+.grid_post-box .post-cat a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+.grid_post-box .post-substr {
+    color: #666;
+    line-height: 1.5;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+#main {
+    width: calc(100% - 330px);
+    box-sizing: border-box;
+}
+@media screen and (max-width: 959px) {
+    #main {
+        width: 100%;
+        float: none;
+    }
+    #sidebar {
+        width: 100%;
+        float: none;
+    }
+}
+@media screen and (max-width: 599px) {
+    .grid_post-box .post-meta-all {
+        padding-bottom: 28px;
+    }
+}
+
+.grid_post_thumbnail{
+    height: 170px;
+}
+
+.post_thumbnail{
+    height: 180px;
+}
+
+@media screen and (min-width: 1201px){
+    #main-wrap,.header-wrap .header-logo,.header_small_content,.bigfooter_wrap,.footer_content,.containerwidget{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1200px){
+   #main-wrap,.header-wrap .header-logo,.header_small_content,.bigfooter_wrap,.footer_content,.containerwidget{
+        width: 96%;
+    }
+}
+
+@media screen and (max-width: 768px){
+    #main-wrap,.header-wrap .header-logo,.header_small_content,.bigfooter_wrap,.footer_content,.containerwidget{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 960px){
+    #sidebar {
+        width: 310px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .grid_post_thumbnail{
+        height: 160px;
+    }
+
+    .post_thumbnail{
+        height: 130px;
+    }
+}
+
+@media screen and (max-width: 599px){
+    .grid_post_thumbnail{
+        height: 100px;
+    }
+
+    .post_thumbnail{
+        height: 70px;
+    }
+}
+</style>
+<style>
+@media screen and (min-width: 1201px){
+    #main-wrap{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1200px){
+   #main-wrap{
+        width: 96%;
+    }
+}
+</style>
+{% feed_meta %}
+{% seo %}
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/WebPage" style="background-image:url('')">
+
+<div id="container">
+<!-- header -->
+  <!-- lpページでは表示しない -->
+  <div id="header" class="clearfix">
+    <header class="header-wrap" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+      <div class="header-logo clearfix">
+        <div class="drawer-nav-btn-wrap"><span class="drawer-nav-btn"><span></span></span></div>
+        <!-- /Navigation -->
+        <div id="logo">
+          <a href="{{ '/' | relative_url }}">
+            <img src="{{ '/assets/images/gbec-logo.png' | relative_url }}" alt="{{ site.title }}">
+          </a>
+        </div>
+        <nav id="nav" role="navigation" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
+          <div class="menu-menu-container"><ul id="mainnavul" class="menu"><li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="{{ '/about/' | relative_url }}">About GBEC</a></li>
+<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="{{ '/contributor/' | relative_url }}">Contributor</a></li>
+</ul></div>
+        </nav>
+      </div>
+    </header>
+    <nav id="scrollnav" class="inline-nospace" role="navigation" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
+      <div class="menu-menu-container"><ul id="scroll-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="{{ '/about/' | relative_url }}">About GBEC</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="{{ '/contributor/' | relative_url }}">Contributor</a></li>
+</ul></div>
+    </nav>
+
+    <div id="nav_fixed">
+    <div class="header-logo clearfix">
+      <div class="drawer-nav-btn-wrap"><span class="drawer-nav-btn"><span></span></span></div>
+      <!-- /Navigation -->
+      <div class="logo clearfix">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/images/gbec-logo.png' | relative_url }}" alt="{{ site.title }}">
+        </a>
+      </div>
+      <nav id="nav" role="navigation" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
+        <div class="menu-menu-container"><ul id="fixnavul" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="{{ '/about/' | relative_url }}">About GBEC</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="{{ '/contributor/' | relative_url }}">Contributor</a></li>
+</ul></div>
+      </nav>
+    </div>
+  </div>
+  </div>
+  {% if page.url == '/' or page.url == '/index.html' or page.title == 'Home' %}
+  <div class="diver_firstview_image" style="background-position:center;background-size:auto auto;background-color:#fff;background-image:url('{{ '/assets/images/2018/09/gbec-hai3.png' | relative_url }}');background-repeat:repeat;padding:50px 20px;">
+    <div style="max-width:1200px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;">
+      <div style="width:40%;padding:10px;box-sizing:border-box;">
+        <img src="{{ '/assets/images/2018/09/gbec00.png' | relative_url }}" alt="GBEC" style="max-width:100%;height:auto;display:block;">
+      </div>
+      <div style="width:60%;padding:10px;box-sizing:border-box;">
+        <img src="{{ '/assets/images/2019/05/title.jp02.png' | relative_url }}" alt="GBEC Title" style="max-width:100%;height:auto;display:block;margin-bottom:20px;">
+        <a href="https://join.slack.com/t/gbechq/shared_invite/zt-2ahi1rm42-qMSYFD_z2VkDm9vGQ0sqlA" target="_blank" style="display:inline-block;background-image:linear-gradient(-90deg, #EC3BBE, #7A5FC4);color:white;padding:20px 30px;text-decoration:none;border-radius:3px;">
+          <i class="fa fa-slack"></i> <strong>GBEC Slack</strong><br>
+          <span style="font-size:0.8em;">Join to our Slack!!</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  <div class="d_sp">
+  </div>
+
+  <div id="main-wrap">
+  <!-- main -->
+    {{ content }}
+  </div>
+
+  <!-- Big footer -->
+  <div id="bigfooter">
+    <div class="bigfooter_wrap clearfix">
+      <div class="bigfooter_colomn col4">
+        <div class="widget_text widget bigfooter_col widget_custom_html"><div class="textwidget custom-html-widget">
+          <a href="{{ '/category/video/' | relative_url }}"><h3>動画で学ぶブロックチェーン</h3></a>
+          <a href="{{ '/category/news/' | relative_url }}"><h3>お知らせ</h3></a>
+          <a href="https://medium.com/blockchain-engineer-blog" target="_blank"><h3>Blockchain Engineer Blog</h3></a>
+        </div></div>
+        <div class="widget_text widget bigfooter_col widget_custom_html"><div class="textwidget custom-html-widget">
+<style>
+.footer-media {
+  margin-top: 30px;
+  display: flex;
+}
+.footer-media > a {
+  background-color: #aaaaaa;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  margin-right: 20px;
+  text-align: center;
+}
+.footer-media > a:hover {
+  transition-duration: 0.5s;
+  background-color: #e9e9e9;
+}
+.footer-media > a > i {
+  color: #ffffff;
+  font-size: 1.5rem;
+}
+</style>
+<div class="footer-media">
+  <a href="https://www.youtube.com/channel/UCkMb8hYP1NbDmKZpizWs5hg" target="_blank"><i class="fa fa-youtube-play"></i></a>
+  <a href="mailto:info@goblockchain.network"><i class="fa fa-envelope"></i></a>
+</div>
+        </div></div>
+      </div>
+      <div class="bigfooter_colomn col4"></div>
+      <div class="bigfooter_colomn col4"></div>
+      <div class="bigfooter_colomn col4"></div>
+    </div>
+  </div>
+  <!-- /Big footer -->
+
+  <!-- footer -->
+  <footer id="footer">
+    <div class="footer_content clearfix">
+      <nav class="footer_navi" role="navigation"></nav>
+      <p id="copyright">Copyright © {{ site.time | date: '%Y' }} Go Blockchain Engineering Community All Rights Reserved.</p>
+    </div>
+  </footer>
+  <!-- /footer -->
+  <span id="page-top"><a href="#wrap"><i class="fa fa-chevron-up" aria-hidden="true"></i></a></span>
+</div>
+
+<div class="drawer-overlay"></div>
+<div class="drawer-nav">
+  <div class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+    <a href="{{ '/' | relative_url }}"><h2>TOP</h2></a>
+    <a href="{{ '/about/' | relative_url }}"><h2>About GBEC</h2></a>
+    <a href="{{ '/contributor/' | relative_url }}"><h2>Contributor</h2></a>
+    <a href="{{ '/category/video/' | relative_url }}"><h3>動画で学ぶブロックチェーン</h3></a>
+    <a href="{{ '/category/news/' | relative_url }}"><h3>お知らせ</h3></a>
+    <a href="https://medium.com/blockchain-engineer-blog" target="_blank"><h3>Blockchain Engineer Blog</h3></a>
+  </div></div>
+</div>
+
+</body>
+</html>

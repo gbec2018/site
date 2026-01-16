@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<main id="single-main" style="float:none" role="main">
+  <!-- Breadcrumb -->
+  <ul id="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+      <a href="{{ '/' | relative_url }}" itemprop="item">
+        <span itemprop="name"><i class="fa fa-home" aria-hidden="true"></i> home</span>
+      </a>
+      <meta itemprop="position" content="1">
+    </li>
+    {% if page.categories %}
+    {% for cat in page.categories %}
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+      <a href="{{ '/category/' | append: cat | relative_url }}" itemprop="item">
+        <span itemprop="name">{{ cat }}</span>
+      </a>
+      <meta itemprop="position" content="2">
+    </li>
+    {% endfor %}
+    {% endif %}
+    <li class="breadcrumb-title" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+      <span itemprop="name">{{ page.title }}</span>
+      <meta itemprop="position" content="3">
+    </li>
+  </ul>
+
+  <article id="post-{{ page.id }}" class="post type-post status-publish format-standard has-post-thumbnail hentry {% for cat in page.categories %}category-{{ cat | slugify }} {% endfor %}" role="article">
+    <header>
+      <div class="post-meta clearfix">
+        <div class="cat-tag">
+          {% for cat in page.categories %}
+          <div class="single-post-category" {% if cat == 'video' or cat == 'movie' %}style="background:#68bc3a"{% endif %}>
+            <a href="{{ '/category/' | append: cat | relative_url }}" rel="category tag">{{ cat }}</a>
+          </div>
+          {% endfor %}
+        </div>
+
+        <h1 class="single-post-title entry-title">{{ page.title }}</h1>
+        <div class="post-meta-bottom">
+          <time class="single-post-date published updated" datetime="{{ page.date | date_to_xmlschema }}">
+            <i class="fa fa-calendar" aria-hidden="true"></i>{{ page.date | date: "%Y年%m月%d日" }}
+          </time>
+        </div>
+      </div>
+
+    </header>
+
+    <section class="single-post-main">
+      <div class="content">
+        {{ content }}
+      </div>
+    </section>
+  </article>
+
+  <!-- Navigation -->
+  {% if page.previous or page.next %}
+  <ul class="navigation clearfix">
+    {% if page.previous %}
+    <li class="left"><a href="{{ page.previous.url | relative_url }}" rel="prev"><i class="fa fa-angle-left" aria-hidden="true"></i> {{ page.previous.title | truncate: 50 }}</a></li>
+    {% endif %}
+    {% if page.next %}
+    <li class="right"><a href="{{ page.next.url | relative_url }}" rel="next">{{ page.next.title | truncate: 50 }} <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+    {% endif %}
+  </ul>
+  {% endif %}
+</main>

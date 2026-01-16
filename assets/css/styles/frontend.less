@@ -1,0 +1,125 @@
+// *****************************************************************************
+// Responsive videos.
+.featured-video-plus.fvp-responsive {
+  .wp-video {
+    width: auto !important;
+    height: auto !important;
+
+    video {
+      width: 100% !important;
+      height: auto !important;
+    }
+  }
+
+  // Backcompat-Code
+  .mejs-container {
+    width: 100% !important;
+    height: auto !important;
+    padding-top: 57%;
+  }
+  .mejs-overlay, .mejs-poster {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  .mejs-mediaelement video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100% !important;
+    height: 100% !important;
+  }
+  // End Backcompat-Code.
+
+  audio {
+    width: 100%;
+  }
+}
+
+// *****************************************************************************
+// Alignment
+.featured-video-plus.fvp-center {
+  text-align: center;
+  .wp-video { margin: 0 auto; }
+}
+
+.featured-video-plus.fvp-right {
+  text-align: right;
+  .wp-video { margin: 0 0 auto auto; }
+}
+
+.featured-video-plus.fvp-left {
+  text-align: left;
+  .wp-video { margin: 0 auto auto 0; }
+}
+
+// *****************************************************************************
+// Lazy mode overlay button and DOM Window
+.fvp-overlay,
+.fvp-dynamic {
+  position: relative;
+  display: block;
+  height: auto;
+  width: auto;
+
+  .fvp-actionicon {
+    background: transparent no-repeat scroll center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    pointer-events: none;
+    display: none;
+
+    &.play {
+      display: block;
+      background-image: url('../img/playicon.png');
+    }
+
+    &.load {
+      display: block;
+      &.w { background-image: url('../img/loadicon_w.gif'); }
+      &.b { background-image: url('../img/loadicon_b.gif'); }
+    }
+  }
+}
+
+#DOMWindow {
+  background: transparent center center no-repeat;
+  width: auto;
+  height: auto;
+  margin: auto auto;
+  overflow: hidden;
+  background-image: url('../img/loadicon_w.gif');
+}
+
+.fvp-onload {
+  display: none !important;
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+
+// *****************************************************************************
+// Hacks
+
+// Hides the link displayed below local videos as generated using
+// wp_mediaelement_fallback
+// @see http://codex.wordpress.org/Function_Reference/wp_mediaelement_fallback
+// @see https://core.trac.wordpress.org/browser/tags/4.2.2/src/wp-includes/media.php#L1917
+.featured-video-plus .wp-video a:not(.post-thumbnail) {
+  display: none;
+}
+
+.no-js .featured-video-plus .wp-video a:not(.post-thumbnail) {
+  display: inline;
+}
+
+// Spotify fitvids fix.
+// TODO.
+.featured-video-plus.fvp-responsive.fvp-spotify .fluid-width-video-wrapper {
+  padding-top: 100% !important;
+}

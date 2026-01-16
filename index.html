@@ -1,0 +1,69 @@
+---
+layout: default
+title: Home
+pagination:
+  enabled: true
+  category: video
+  per_page: 9
+---
+<main id="page-main" style="float:none" role="main">
+  <article class="hentry ja" role="article">
+    <section class="single-post-main" itemprop="articleBody">
+      <div class="content">
+        <div class="cp_h1title" style="background-image: linear-gradient(-90deg, #036EB7, #00A98E);"><strong>動画で学ぶブロックチェーン</strong></div>
+        <div class="row sp">
+          {% for post in paginator.posts %}
+          <div class="sc_col3 sp">
+            <ul class="sc_article grid" style="height:auto;">
+              <a class="clearfix" href="{{ post.url | relative_url }}">
+                <li>
+                  <figure class="post_list_thumb">
+                    {% if post.thumbnail %}
+                    <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+                    {% else %}
+                    <img src="{{ '/assets/images/gbec-logo.png' | relative_url }}" alt="{{ post.title }}">
+                    {% endif %}
+                  </figure>
+                  <div class="meta">
+                    <span style="background:#68bc3a; line-height: 3em" class="sc_article_cat">動画で学ぶブロックチェーン</span>
+                    <div class="sc_article_title">{{ post.title }}</div>
+                    <div style="font-size: 0.8em">{{ post.content | strip_html | truncate: 80 }}</div>
+                    <div class="sc_article_date">{{ post.date | date: "%Y年%m月%d日" }}</div>
+                  </div>
+                </li>
+              </a>
+            </ul>
+          </div>
+          {% endfor %}
+        </div>
+
+        {% if paginator.total_pages > 1 %}
+        <nav class="pagination">
+          {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | relative_url }}" class="page-numbers prev">
+            <i class="fa fa-chevron-left" aria-hidden="true"></i> 前へ
+          </a>
+          {% endif %}
+
+          {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+            <span class="page-numbers current">{{ page }}</span>
+            {% elsif page == 1 %}
+            <a href="{{ '/' | relative_url }}" class="page-numbers">{{ page }}</a>
+            {% else %}
+            <a href="{{ '/page/' | append: page | append: '/' | relative_url }}" class="page-numbers">{{ page }}</a>
+            {% endif %}
+          {% endfor %}
+
+          {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | relative_url }}" class="page-numbers next">
+            次へ <i class="fa fa-chevron-right" aria-hidden="true"></i>
+          </a>
+          {% endif %}
+        </nav>
+        {% endif %}
+
+      </div>
+    </section>
+  </article>
+</main>

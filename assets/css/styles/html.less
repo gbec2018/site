@@ -1,0 +1,66 @@
+body.no-js {
+	.fvphtml-tab-title {
+		font-weight: bold;
+		display: block;
+	}
+}
+
+body.js {
+	.fvphtml-tab-title {
+		float: left;
+		padding: 1px 10px 2px;
+		cursor: pointer;
+		border-style: solid;
+		border-color: #ccc;
+		border-width: 0;
+		border-right-width:  1px;
+		border-bottom-width: 1px;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	.fvphtml-tab-title.active {
+		font-weight: bold;
+		cursor: default;
+		font-weight: bold;
+		border-bottom-width: 0;
+		padding-top: 0;
+		border-top-width: 1px;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
+
+.fvphtml-tab-body {
+	clear: both;
+	padding-top: 5px;
+}
+
+.fvphtml-label {
+	position: relative;
+	clear: both;
+	display: block;
+
+	.fvphtml-innerlabel {
+		display: block;
+		float: left;
+		width: 10em;
+		line-height: 27px;
+	}
+
+	.fvphtml-reset {
+		position: absolute;
+		top: 0;
+		left: 9em;
+		z-index: 1;
+		line-height: 27px;
+	}
+}
+
+.fvphtml-pointer-input {
+	width: 100%;
+}
