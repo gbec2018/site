@@ -3,7 +3,7 @@ layout: post
 title: "【動画で学ぶブロックチェーン】【Ethereum】Account Abstraction—　中城元臣氏"
 date: 2020-10-23
 categories: [video]
-permalink: /2020/10/23/account-abstraction-　/
+permalink: /2020/10/account-abstraction-　/
 youtube_id: Ob1s_w01HT8
 thumbnail: /assets/images/2020/10/img-961378a0.jpeg
 ---

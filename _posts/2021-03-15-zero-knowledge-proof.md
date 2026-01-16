@@ -3,7 +3,7 @@ layout: post
 title: "【動画で学ぶブロックチェーン】ゼロ知識証明- 津田匠貴氏"
 date: 2021-03-15
 categories: [video]
-permalink: /2021/03/15/zero‐knowledge-proof/
+permalink: /2021/03/zero‐knowledge-proof/
 thumbnail: /assets/images/2021/03/img-7d35d7e5.jpeg
 ---
 
