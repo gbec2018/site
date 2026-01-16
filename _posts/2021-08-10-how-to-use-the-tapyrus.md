@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Tapyrusの使い方につ�
 date: 2021-08-10
 categories: [video]
 youtube_id: Upo1NXJeFoI
-thumbnail: /assets/images/2021/08/【動画で学ぶブロックチェーン】Tapyrusの使い方について-奥村潤氏.jpeg
+thumbnail: /assets/images/2021/08/img-7508c92c.jpeg
+tags: ["Bitcoin", "Tapyrus", "奥村潤"]
 ---
 
 Chaintope 社のブロックチェーンエンジニアを務める奥村氏によるTapyrusの使い方についての解説です。

@@ -5,6 +5,7 @@ date: 2021-04-13
 categories: [video]
 youtube_id: J2bC0NP251U
 thumbnail: /assets/images/2021/04/Screenshot-from-2021-04-13-10-45-06.png
+tags: ["blockchain", "Ethereum", "安土 茂亨"]
 ---
 
 {% include youtube.html id="J2bC0NP251U" %}

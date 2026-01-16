@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】 Hodl Invoice- 深田涼太
 date: 2021-08-26
 categories: [video]
 youtube_id: k_kbH-MKn7I
-thumbnail: /assets/images/2021/08/【動画で学ぶブロックチェーン】-Hodl-Invoice-深田涼太氏.jpeg
+thumbnail: /assets/images/2021/08/img-942f4572.jpeg
+tags: ["Bitcoin", "blockchain", "Lightning Network", "深田涼太"]
 ---
 
 HAW International エンジニア深田氏によるHodl Invoiceについての解説です。  

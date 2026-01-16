@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】ERC-6551に�
 date: 2024-03-15
 categories: [video]
 youtube_id: yXzKl8r1L60
-thumbnail: /assets/images/2024/03/【動画で学ぶブロックチェーン】【Ethereum】ERC-6551にみるUpgradableの可能性-中城元臣氏.jpeg
+thumbnail: /assets/images/2024/03/img-903beb96.jpeg
+tags: ["Ethereum", "Upgradable", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるERC-6551にみるUpgradableの可能性についての解説です。

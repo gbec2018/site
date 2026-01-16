@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Atomic Loans -　安土 茂
 date: 2019-07-18
 categories: [video]
 youtube_id: NsXFgE2hqHQ
-thumbnail: /assets/images/2019/07/【動画で学ぶブロックチェーン】Atomic-Loans-　安土-茂亨氏.jpeg
+thumbnail: /assets/images/2019/07/img-4aa25476.jpeg
+tags: ["Atomic Loans", "Bitcoin", "HTCL", "安土 茂亨"]
 ---
 
 {% include youtube.html id="NsXFgE2hqHQ" %}

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】新しいオフチェーン
 date: 2018-11-12
 categories: [video]
 youtube_id: kVyxOZCUoi0
-thumbnail: /assets/images/2018/11/【動画で学ぶブロックチェーン】新しいオフチェーンコントラクトeltooとSIGHASH_NOINPUT-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2018/11/img-8df67215.jpeg
+tags: ["eltoo", "LN", "Payment Channel", "SHIGHASH_NOINPUT", "安土 茂亨"]
 ---
 
 {% include youtube.html id="kVyxOZCUoi0" %}

@@ -5,6 +5,7 @@ date: 2021-05-24
 categories: [video]
 youtube_id: _3fgK4aYz3E
 thumbnail: /assets/images/2021/05/Screenshot-from-2021-05-24-08-58-52.png
+tags: ["Bitcoin", "blockchain", "安土 茂亨"]
 ---
 
 {% include youtube.html id="_3fgK4aYz3E" %}

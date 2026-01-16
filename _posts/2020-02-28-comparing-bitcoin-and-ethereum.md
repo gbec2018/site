@@ -5,6 +5,7 @@ date: 2020-02-28
 categories: [video]
 youtube_id: L5-lgDlY64Q
 thumbnail: /assets/images/2020/02/【動画で学ぶブロックチェーン】【Ethereum】-Comparing-Bitcoin-and-Ethereum-　中条元臣氏-1.jpeg
+tags: ["Bitcoin", "Ethereum", "中城元臣"]
 ---
 
 {% include youtube.html id="L5-lgDlY64Q" %}

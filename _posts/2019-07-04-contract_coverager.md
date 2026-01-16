@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Contract Coverager - 中城
 date: 2019-07-04
 categories: [video]
 youtube_id: e9xjXrDhawU
-thumbnail: /assets/images/2019/07/【動画で学ぶブロックチェーン】Contract-Coverager-中城元臣氏.jpeg
+thumbnail: /assets/images/2019/07/img-97b5f6a3.jpeg
+tags: ["Bitcoin", "中城元臣"]
 ---
 
 {% include youtube.html id="e9xjXrDhawU" %}

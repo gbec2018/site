@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】RSA accumulatorを理解す
 date: 2020-06-12
 categories: [video]
 youtube_id: oNUwH2y5sMA
-thumbnail: /assets/images/2020/06/【動画で学ぶブロックチェーン】RSA-accumulatorを理解する-　安土-茂亨氏-1.jpeg
+thumbnail: /assets/images/2020/06/img-8740e9d0.jpeg
+tags: ["Cryptography", "RSA accumulator", "安土 茂亨", "暗号技術"]
 ---
 
 {% include youtube.html id="oNUwH2y5sMA" %}

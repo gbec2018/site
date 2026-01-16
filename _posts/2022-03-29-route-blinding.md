@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】LNで受信者の�
 date: 2022-03-29
 categories: [video]
 youtube_id: UEsewdE6V00
-thumbnail: /assets/images/2022/03/【動画で学ぶブロックチェーン】LNで受信者の匿名性を提供するRoute-Blinding-安土-茂亨.jpeg
+thumbnail: /assets/images/2022/03/img-cd562ec1.jpeg
+tags: ["Bitcoin", "blockchain", "Lightning Network", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏による Lightning Networkで受信者の匿名性を提供するRoute Blindingについての解説です。

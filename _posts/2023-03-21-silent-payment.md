@@ -5,6 +5,7 @@ date: 2023-03-21
 categories: [video]
 youtube_id: 4Cl0R3UMQ6I
 thumbnail: /assets/images/2023/03/Screenshot-from-2023-03-21-18-40-55.png
+tags: ["Bitcoin", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるSilent Paymentについての解説動画です。

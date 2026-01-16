@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Eth2 Deposit 
 date: 2022-12-08
 categories: [video]
 youtube_id: LC0-QN8--Zc
-thumbnail: /assets/images/2022/12/【動画で学ぶブロックチェーン】【Ethereum】Eth2-Deposit-中城元臣氏.jpeg
+thumbnail: /assets/images/2022/12/img-eade0a85.jpeg
+tags: ["Deposit Contract", "Ethereum", "Validator", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEth2 Depositについての解説です。

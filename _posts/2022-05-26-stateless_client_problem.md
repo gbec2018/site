@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Stateless Cli
 date: 2022-05-26
 categories: [video]
 youtube_id: FErsPuwbDOk
-thumbnail: /assets/images/2022/05/【動画で学ぶブロックチェーン】【Ethereum】Stateless-Client-Problem-中城元臣氏.jpeg
+thumbnail: /assets/images/2022/05/img-43de66e5.jpeg
+tags: ["Ethereum", "Stateless Client"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるStateless Client Problemについての解説です。

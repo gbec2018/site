@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Inner Product Argument - �
 date: 2023-11-21
 categories: [video]
 youtube_id: EldM59hH55Y
-thumbnail: /assets/images/2023/11/【動画で学ぶブロックチェーン】Inner-Product-Argument-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2023/11/img-84ec1c48.jpeg
+tags: ["Cryptography", "Inner Product Argument", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるInner Product Argumentについての解説動画です。

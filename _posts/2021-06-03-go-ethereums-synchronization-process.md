@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】go-ethereum�
 date: 2021-06-03
 categories: [video]
 youtube_id: CBsuqussu2w
-thumbnail: /assets/images/2021/06/【動画で学ぶブロックチェーン】【Ethereum】go-ethereumの同期処理について-中城元臣氏.jpeg
+thumbnail: /assets/images/2021/06/img-f84c43fd.jpeg
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 {% include youtube.html id="CBsuqussu2w" %}

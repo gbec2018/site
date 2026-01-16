@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】LNDのルーティングア
 date: 2024-12-04
 categories: [video]
 youtube_id: Vdf2bcs5nM8
-thumbnail: /assets/images/2024/11/【動画で学ぶブロックチェーン】LNDのルーティングアルゴリズム-　深田涼太氏-1.jpeg
+thumbnail: /assets/images/2024/11/img-3b2bea2c.jpeg
 ---
 
 HAW International エンジニア深田氏によるLNDのルーティングアルゴリズムについての解説です。

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Compact Block Filter  -　�
 date: 2019-09-09
 categories: [video]
 youtube_id: aUwVM8sdAIg
-thumbnail: /assets/images/2019/08/【動画で学ぶブロックチェーン】Compact-Block-Filter-　安土-茂亨氏.jpeg
+thumbnail: /assets/images/2019/08/img-2efd0192.jpeg
+tags: ["Compact Block Filter", "安土 茂亨"]
 ---
 
 {% include youtube.html id="aUwVM8sdAIg" %}

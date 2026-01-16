@@ -5,6 +5,7 @@ date: 2024-03-21
 categories: [video]
 youtube_id: ZV7VyW-HFAk
 thumbnail: /assets/images/2024/03/Screenshot-from-2024-03-21-16-25-14.png
+tags: ["Bitcoin", "Lightning Network", "RBF", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるReplacement Cycling Attackについての解説動画です。

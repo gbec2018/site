@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】How to make E
 date: 2022-01-27
 categories: [video]
 youtube_id: Yqbt_fqWShk
-thumbnail: /assets/images/2022/01/【動画で学ぶブロックチェーン】【Ethereum】How-to-make-EIP-1559-Transaction-中城元臣氏.jpeg
+thumbnail: /assets/images/2022/01/img-846bcafd.jpeg
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEIP-1559に対応したTransactionの発行方法についての解説です。  

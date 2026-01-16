@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Plasmaの概要 - 中城 �
 date: 2018-10-16
 categories: [video]
 youtube_id: 6zNjilJ4UFk
-thumbnail: /assets/images/2018/10/【動画で学ぶブロックチェーン】Plasmaの概要-中城-元臣氏.jpeg
+thumbnail: /assets/images/2018/10/img-3c79c1a7.jpeg
+tags: ["Ethereum", "Plasma", "中城元臣"]
 ---
 
 {% include youtube.html id="6zNjilJ4UFk" %}

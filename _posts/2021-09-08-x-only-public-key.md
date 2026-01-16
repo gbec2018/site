@@ -5,6 +5,7 @@ date: 2021-09-08
 categories: [video]
 youtube_id: iehyYFDY_14
 thumbnail: /assets/images/2021/09/Screenshot-from-2021-09-08-10-06-04.png
+tags: ["Bitcoin", "blockchain", "Taproot", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるx-only Public Keyついての解説です。

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Stack To Deep Problem - 中
 date: 2019-11-12
 categories: [video]
 youtube_id: qJGiQ3Qe3ko
-thumbnail: /assets/images/2019/11/【動画で学ぶブロックチェーン】Stack-To-Deep-Problem-中城元臣氏.jpeg
+thumbnail: /assets/images/2019/11/img-9f054306.jpeg
+tags: ["Ethereum", "EVM", "Solidity", "中城元臣"]
 ---
 
 {% include youtube.html id="qJGiQ3Qe3ko" %}

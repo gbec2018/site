@@ -5,6 +5,7 @@ date: 2020-01-14
 categories: [video]
 youtube_id: ck8504hSTmg
 thumbnail: /assets/images/2020/01/Screenshot-from-2020-01-14-13-25-29.png
+tags: ["Bitcoin", "Cryptography", "安土 茂亨"]
 ---
 
 {% include youtube.html id="ck8504hSTmg" %}

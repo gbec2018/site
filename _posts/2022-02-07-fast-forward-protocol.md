@@ -5,6 +5,7 @@ date: 2022-02-07
 categories: [video]
 youtube_id: ptTF7QaAmAU
 thumbnail: /assets/images/2022/02/【動画で学ぶブロックチェーン】Fast-Forward-Protocol.jpeg
+tags: ["Bitcoin", "blockchain", "Lightning Network", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるLNで提案されている、秘密鍵をオフラインにしたまま支払いの受け入れを可能にするFast Forward Protocolについての解説動画です。

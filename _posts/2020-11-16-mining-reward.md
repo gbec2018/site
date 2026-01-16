@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Mining Reward
 date: 2020-11-16
 categories: [video]
 youtube_id: xxXu8IR5yVo
-thumbnail: /assets/images/2020/11/【動画で学ぶブロックチェーン】【Ethereum】Mining-Rewardー中城元臣氏.jpeg
+thumbnail: /assets/images/2020/11/img-c9107c85.jpeg
+tags: ["Ethereum", "Mining Reward", "中城元臣"]
 ---
 
 {% include youtube.html id="xxXu8IR5yVo" %}

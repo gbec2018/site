@@ -38,6 +38,14 @@ layout: default
         </div>
 
         <h1 class="single-post-title entry-title">{{ page.title }}</h1>
+
+        {% if page.tags and page.tags.size > 0 %}
+        <div class="post-tag">
+          {% for tag in page.tags %}
+          <a href="{{ '/tag/' | append: tag | downcase | append: '/' | relative_url }}" rel="tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+        {% endif %}
         <div class="post-meta-bottom">
           <time class="single-post-date published updated" datetime="{{ page.date | date_to_xmlschema }}">
             <i class="fa fa-calendar" aria-hidden="true"></i>{{ page.date | date: "%Y年%m月%d日" }}

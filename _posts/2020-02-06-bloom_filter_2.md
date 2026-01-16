@@ -5,6 +5,7 @@ date: 2020-02-06
 categories: [video]
 youtube_id: IpTAkwLsrsw
 thumbnail: /assets/images/2020/02/【動画で学ぶブロックチェーン】ブルームフィルターを使ったSPVノード②-谷口耕平氏.jpeg
+tags: ["blockchain", "Bloom Filter", "SPVノード", "谷口耕平"]
 ---
 
 {% include youtube.html id="IpTAkwLsrsw" %}

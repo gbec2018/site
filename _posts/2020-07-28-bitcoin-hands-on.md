@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Bitcoin実践�
 date: 2020-07-28
 categories: [video]
 youtube_id: SFs44eznsic
-thumbnail: /assets/images/2020/07/スクリーンショット-2020-07-28-13.45.00.png
+thumbnail: /assets/images/2020/07/img-cb273ddf.png
+tags: ["Bitcoin", "ハンズオン", "深田涼太"]
 ---
 
 {% include youtube.html id="SFs44eznsic" %}

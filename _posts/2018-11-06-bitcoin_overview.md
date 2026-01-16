@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】BitcoinのBlockchainの概�
 date: 2018-11-06
 categories: [video]
 youtube_id: jNaKFN2nNh0
-thumbnail: /assets/images/2018/11/【動画で学ぶブロックチェーン】BitcoinのBlockchainの概要-谷口耕平氏.jpeg
+thumbnail: /assets/images/2018/11/img-7f7e2072.jpeg
+tags: ["Bitcoin", "谷口耕平"]
 ---
 
 {% include youtube.html id="jNaKFN2nNh0" %}

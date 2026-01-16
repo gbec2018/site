@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Truffleテストtips - 中�
 date: 2018-12-27
 categories: [video]
 youtube_id: DJi3es8RXZ0
-thumbnail: /assets/images/2018/12/【動画で学ぶブロックチェーン】TruffleTestTips-中城元臣氏.jpeg
+thumbnail: /assets/images/2018/12/img-a070b81b.jpeg
+tags: ["Ethereum", "Truffle", "中城元臣"]
 ---
 
 {% include youtube.html id="DJi3es8RXZ0" %}

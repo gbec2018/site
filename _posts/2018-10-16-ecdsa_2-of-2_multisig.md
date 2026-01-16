@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】高速で安全な2者間�
 date: 2018-10-16
 categories: [video]
 youtube_id: pOPHOz2xxFU
-thumbnail: /assets/images/2018/10/【動画で学ぶブロックチェーン】高速で安全な2者間のECDSA署名-安土-茂亨氏-1.jpeg
+thumbnail: /assets/images/2018/10/img-5f126d28.jpeg
+tags: ["Bitcoin", "ECDSA", "安土 茂亨"]
 ---
 
 {% include youtube.html id="pOPHOz2xxFU" %}

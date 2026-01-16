@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Account Abstr
 date: 2020-10-23
 categories: [video]
 youtube_id: Ob1s_w01HT8
-thumbnail: /assets/images/2020/10/【動画で学ぶブロックチェーン】【Ethereum】Account-Abstraction—　中城元臣氏.jpeg
+thumbnail: /assets/images/2020/10/img-961378a0.jpeg
 ---
 
 {% include youtube.html id="Ob1s_w01HT8" %}

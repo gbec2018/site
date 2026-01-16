@@ -161,6 +161,7 @@ a.page-numbers{background: #afafaf;color: #fff;}
 }
 .sc_article_excerpt{
     font-size: 0.8em;
+    color: #333;
 }
 .btn-gradation {
   display: inline-block;
@@ -340,6 +341,40 @@ h4{color: #666}
 h5{color: #666}
 .content h2{background: #607d8b;border-radius: 3px;}
 .content h3{border-bottom:2px solid #ffffff;background: #fff;border-radius: 0}
+.post-tag {
+  margin: 10px 0;
+}
+.post-tag a {
+  display: inline-block;
+  background: #eee;
+  color: #333;
+  padding: 3px 10px;
+  margin: 2px 4px 2px 0;
+  font-size: 0.85em;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.post-tag a:hover {
+  background: #607d8b;
+  color: #fff;
+}
+.sc_article_tags {
+  margin-top: 5px;
+}
+.sc_article_tags a {
+  display: inline-block;
+  background: #f5f5f5;
+  color: #666;
+  padding: 2px 6px;
+  margin: 2px 3px 2px 0;
+  font-size: 0.75em;
+  border-radius: 2px;
+  text-decoration: none;
+}
+.sc_article_tags a:hover {
+  background: #607d8b;
+  color: #fff;
+}
 .row.sp {
   display: flex;
   flex-wrap: wrap;
@@ -566,9 +601,6 @@ h5{color: #666}
     <div class="bigfooter_wrap clearfix">
       <div class="bigfooter_colomn col4">
         <div class="widget_text widget bigfooter_col widget_custom_html"><div class="textwidget custom-html-widget">
-          <a href="{{ '/category/video/' | relative_url }}"><h3>動画で学ぶブロックチェーン</h3></a>
-          <a href="{{ '/category/news/' | relative_url }}"><h3>お知らせ</h3></a>
-          <a href="https://medium.com/blockchain-engineer-blog" target="_blank"><h3>Blockchain Engineer Blog</h3></a>
         </div></div>
         <div class="widget_text widget bigfooter_col widget_custom_html"><div class="textwidget custom-html-widget">
 <style>
@@ -627,9 +659,6 @@ h5{color: #666}
     <a href="{{ '/' | relative_url }}"><h2>TOP</h2></a>
     <a href="{{ '/about/' | relative_url }}"><h2>About GBEC</h2></a>
     <a href="{{ '/contributor/' | relative_url }}"><h2>Contributor</h2></a>
-    <a href="{{ '/category/video/' | relative_url }}"><h3>動画で学ぶブロックチェーン</h3></a>
-    <a href="{{ '/category/news/' | relative_url }}"><h3>お知らせ</h3></a>
-    <a href="https://medium.com/blockchain-engineer-blog" target="_blank"><h3>Blockchain Engineer Blog</h3></a>
   </div></div>
 </div>
 

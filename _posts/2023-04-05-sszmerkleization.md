@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】SSZ Merkleiza
 date: 2023-04-05
 categories: [video]
 youtube_id: KDAgzuHwDto
-thumbnail: /assets/images/2023/04/【動画で学ぶブロックチェーン】【Ethereum】SSZ-Merkleization-中城元臣氏.jpeg
+thumbnail: /assets/images/2023/04/img-97c46fd0.jpeg
+tags: ["blockchain", "Ethereum", "Merkleization", "SSZ", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSSZ Merkleizationについての解説です。

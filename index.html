@@ -27,7 +27,14 @@ pagination:
                   <div class="meta">
                     <span style="background:#68bc3a; line-height: 3em" class="sc_article_cat">動画で学ぶブロックチェーン</span>
                     <div class="sc_article_title">{{ post.title }}</div>
-                    <div style="font-size: 0.8em">{{ post.content | strip_html | truncate: 80 }}</div>
+                    <div class="sc_article_excerpt" style="font-size: 0.8em">{{ post.content | strip_html | truncate: 80 }}</div>
+                    {% if post.tags and post.tags.size > 0 %}
+                    <div class="sc_article_tags">
+                      {% for tag in post.tags limit:3 %}
+                      <a href="{{ '/tag/' | append: tag | downcase | append: '/' | relative_url }}">{{ tag }}</a>
+                      {% endfor %}
+                    </div>
+                    {% endif %}
                     <div class="sc_article_date">{{ post.date | date: "%Y年%m月%d日" }}</div>
                   </div>
                 </li>

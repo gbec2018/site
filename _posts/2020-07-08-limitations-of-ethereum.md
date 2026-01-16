@@ -5,6 +5,7 @@ date: 2020-07-08
 categories: [video]
 youtube_id: nyResIy4LNc
 thumbnail: /assets/images/2020/07/【動画で学ぶブロックチェーン】【Ethereum】-Limitations-of-Ethereum-　中城元臣氏.jpeg
+tags: ["Ethereum", "gas cost", "中城元臣"]
 ---
 
 {% include youtube.html id="nyResIy4LNc" %}

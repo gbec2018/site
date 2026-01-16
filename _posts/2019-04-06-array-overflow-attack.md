@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Array Overflow Attack - 中
 date: 2019-04-06
 categories: [video]
 youtube_id: lZ8Wyi9Oq5Q
-thumbnail: /assets/images/2019/04/【動画で学ぶブロックチェーン】Array-Overflow-Attack-中城元臣氏.jpeg
+thumbnail: /assets/images/2019/04/img-366d6e0c.jpeg
+tags: ["Ethereum", "Ethereum Transaction", "スマートコントラクト", "ハンズオン", "中城元臣"]
 ---
 
 {% include youtube.html id="lZ8Wyi9Oq5Q" %}

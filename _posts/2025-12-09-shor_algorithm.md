@@ -5,6 +5,7 @@ date: 2025-12-09
 categories: [video]
 youtube_id: RWrMmX4zhMs
 thumbnail: /assets/images/2025/12/Screenshot-from-2025-12-09-14-46-37.png
+tags: ["Bitcoin", "Cryptography", "安土 茂亨"]
 ---
 
 Chaintope 社の CTO を務める安土氏が、Shorのアルゴリズムはどのようにして素因数分解や離散対数問題を解こうとしているのか、その概要を解説します。 

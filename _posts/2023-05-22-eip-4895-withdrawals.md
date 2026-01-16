@@ -5,6 +5,7 @@ date: 2023-05-22
 categories: [video]
 youtube_id: zya9TxxA87M
 thumbnail: /assets/images/2023/05/gbec20230330-Withdrawals_page-0003.jpg
+tags: ["blockchain", "EIP-4895", "Ethereum", "Withdrawals", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSSZ Merkleizationについての解説です。

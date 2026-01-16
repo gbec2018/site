@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Attestation -
 date: 2022-08-24
 categories: [video]
 youtube_id: 1hGj2aKE78c
-thumbnail: /assets/images/2022/08/【動画で学ぶブロックチェーン】【Ethereum】Attestation-中城元臣氏.jpeg
+thumbnail: /assets/images/2022/08/img-7e6337a8.jpeg
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるAttestationについての解説です。

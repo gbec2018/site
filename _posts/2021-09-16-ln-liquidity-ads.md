@@ -5,6 +5,7 @@ date: 2021-09-16
 categories: [video]
 youtube_id: kwdIKz6LK2c
 thumbnail: /assets/images/2021/09/Screenshot-from-2021-09-16-14-18-30.png
+tags: ["Bitcoin", "blockchain", "Lightning Network", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるLNのゴシップネットワークを使った流動性の配信についての解説です。  

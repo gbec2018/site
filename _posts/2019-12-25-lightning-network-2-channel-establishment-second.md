@@ -4,7 +4,8 @@ title: "動画で学ぶブロックチェーン】Lightning Network 3 ~ Channel 
 date: 2019-12-25
 categories: [video]
 youtube_id: Y-cMygHjKD0
-thumbnail: /assets/images/2019/12/動画で学ぶブロックチェーン】Lightning-Network-3-Channel-Establishment-後半-望月紀生氏.jpeg
+thumbnail: /assets/images/2019/12/img-1a6d84ab.jpeg
+tags: ["Channel Establishment", "Lightning Network", "望月 紀生"]
 ---
 
 {% include youtube.html id="Y-cMygHjKD0" %}

@@ -4,6 +4,7 @@ title: "【動画で学ぶブロックチェーン】Adaptor Signatureを利用�
 date: 2018-12-03
 categories: [video]
 youtube_id: 2WbSGO70-ig
+tags: ["Atomic Swap", "Schnorr Signature", "Shigeyuki Azuchi"]
 ---
 
 {% include youtube.html id="2WbSGO70-ig" %}

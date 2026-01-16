@@ -5,6 +5,7 @@ date: 2020-07-16
 categories: [video]
 youtube_id: L-WEIsajJ9Y
 thumbnail: /assets/images/2020/07/Screenshot-from-2020-07-16-13-16-20.png
+tags: ["Bitcoin", "Point Time Locked Contracts", "PTLC", "安土 茂亨"]
 ---
 
 {% include youtube.html id="L-WEIsajJ9Y" %}

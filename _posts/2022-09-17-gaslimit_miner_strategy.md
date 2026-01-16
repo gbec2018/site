@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】block.gasLimi
 date: 2022-09-17
 categories: [video]
 youtube_id: FyXxEa4FHA8
-thumbnail: /assets/images/2022/09/【動画で学ぶブロックチェーン】【Ethereum】block.gasLimitとMiner戦略-中城元臣氏.jpeg
+thumbnail: /assets/images/2022/09/img-264e4af2.jpeg
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるblock.gasLimitとMiner戦略についての解説です。

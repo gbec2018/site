@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Bitcoin を支える技術�
 date: 2019-06-26
 categories: [video]
 youtube_id: lA64-f9kVdE
-thumbnail: /assets/images/2019/06/【動画で学ぶブロックチェーン】Bitcoin-を支える技術概論-谷口耕平氏.jpeg
+thumbnail: /assets/images/2019/06/img-a76037a2.jpeg
+tags: ["Bitcoin", "谷口耕平"]
 ---
 
 {% include youtube.html id="lA64-f9kVdE" %}

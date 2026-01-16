@@ -5,6 +5,7 @@ date: 2025-02-24
 categories: [video]
 youtube_id: EqrRaeE5JVY
 thumbnail: /assets/images/2025/02/Screenshot-from-2025-02-24-14-56-33.png
+tags: ["Bitcoin", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるBIP-353 DNS Payment Instructions の解説動画です。

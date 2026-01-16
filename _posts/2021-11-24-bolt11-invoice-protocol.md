@@ -5,6 +5,7 @@ date: 2021-11-24
 categories: [video]
 youtube_id: uiKK0qp7kr4
 thumbnail: /assets/images/2021/11/【動画で学ぶブロックチェーン】BOLT11-Invoice-Protocol-深田涼太氏.jpeg
+tags: ["Bitcoin", "blockchain", "Lightning Network", "深田涼太"]
 ---
 
 HAW International エンジニア深田氏によるBOLT#11に書かれている Invoice Protocolついての解説です。  

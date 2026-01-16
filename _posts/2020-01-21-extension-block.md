@@ -5,6 +5,7 @@ date: 2020-01-21
 categories: [video]
 youtube_id: IpL64WIVDmc
 thumbnail: /assets/images/2020/01/Screenshot-from-2020-01-21-13-22-52.png
+tags: ["Bitcoin", "Litecoin", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏による ソフトフォークでコンセンサスに関わるあらゆる変更を可能にするExtension Blockの仕組みについての解説です。

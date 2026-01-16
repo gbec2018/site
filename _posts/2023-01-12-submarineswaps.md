@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】 Submarine Swaps- 深田涼
 date: 2023-01-12
 categories: [video]
 youtube_id: wcqrGHXWvIA
-thumbnail: /assets/images/2023/01/【動画で学ぶブロックチェーン】-Submarine-Swaps-深田涼太氏.jpeg
+thumbnail: /assets/images/2023/01/img-4d4d5beb.jpeg
+tags: ["Submarine Swaps", "深田涼太"]
 ---
 
 HAW International エンジニア深田氏による Submarine Swapsについての解説です。

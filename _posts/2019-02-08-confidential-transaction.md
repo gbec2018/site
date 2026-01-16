@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Confidential Transaction　
 date: 2019-02-08
 categories: [video]
 youtube_id: NbZE-jOv97M
-thumbnail: /assets/images/2019/02/【動画で学ぶブロックチェーン】Confidential-Transaction-　安土-茂亨氏.jpeg
+thumbnail: /assets/images/2019/02/img-beee7a19.jpeg
+tags: ["Bitcoin", "CT", "安土 茂亨"]
 ---
 
 {% include youtube.html id="NbZE-jOv97M" %}

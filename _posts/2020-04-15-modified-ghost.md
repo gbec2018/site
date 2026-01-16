@@ -5,6 +5,7 @@ date: 2020-04-15
 categories: [video]
 youtube_id: FrDBgfgYpjM
 thumbnail: /assets/images/2020/04/【動画で学ぶブロックチェーン】【Ethereum】Modified-GHOST-　中城元臣氏.jpeg
+tags: ["Ethereum", "GHOST", "Modified GHOST"]
 ---
 
 {% include youtube.html id="FrDBgfgYpjM" %}

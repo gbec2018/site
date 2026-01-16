@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Zero-conf Channel(Turbo Cha
 date: 2022-08-17
 categories: [video]
 youtube_id: JTY7WGudL0I
-thumbnail: /assets/images/2022/08/【動画で学ぶブロックチェーン】Zero-conf-ChannelTurbo-Channel-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2022/08/img-8cbcbe36.jpeg
+tags: ["Bitcoin", "Lightning Network", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるZero-conf Channel(旧Turbo Channel)についての解説動画です。

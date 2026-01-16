@@ -5,6 +5,7 @@ date: 2020-04-10
 categories: [video]
 youtube_id: mUWcH9jF0-g
 thumbnail: /assets/images/2020/04/Screenshot-from-2020-04-10-17-40-52.png
+tags: ["Bitcoin", "Schnorr署名", "Tapscript", "安土 茂亨"]
 ---
 
 {% include youtube.html id="mUWcH9jF0-g" %}

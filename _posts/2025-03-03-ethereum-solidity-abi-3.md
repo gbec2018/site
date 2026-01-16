@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Solidity ABI 
 date: 2025-03-03
 categories: [video]
 youtube_id: cB7a0-uCUaM
-thumbnail: /assets/images/2025/03/【動画で学ぶブロックチェーン】【Ethereum】Solidity-ABI-3-Argument-Encoding-中城-元臣-氏.jpeg
+thumbnail: /assets/images/2025/03/img-1d764707.jpeg
+tags: ["Ethereum", "Solidity", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSolidity ABI についての解説です。

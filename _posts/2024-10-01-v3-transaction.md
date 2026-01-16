@@ -5,6 +5,7 @@ date: 2024-10-01
 categories: [video]
 youtube_id: MzdzqRhRwQE
 thumbnail: /assets/images/2024/10/Screenshot-from-2024-10-01-20-19-02.png
+tags: ["Bitcoin", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるv3トランザクションリレーの解説動画です。

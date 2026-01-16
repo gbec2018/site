@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】go-ethereumのpruning - 中
 date: 2021-09-27
 categories: [video]
 youtube_id: phcz1Ks349E
-thumbnail: /assets/images/2021/09/【Ethereum】go-ethereumのpruning.jpeg
+thumbnail: /assets/images/2021/09/img-14c4ce4b.jpeg
+tags: ["blockchain", "Ethereum", "gbec", "中城元臣"]
 ---
 
 Chaintope 社の Chef Ethereum Researcher を務める中城氏によるgo-ethereumに導入されたのpruningについての解説です。

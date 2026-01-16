@@ -5,6 +5,7 @@ date: 2019-05-23
 categories: [video]
 youtube_id: DTPda2oq5Ww
 thumbnail: /assets/images/2019/05/Screenshot-from-2019-05-23-13-13-00.png
+tags: ["Bitcoin", "Discreet Log Contract", "Schnorr署名", "安土 茂亨"]
 ---
 
 {% include youtube.html id="DTPda2oq5Ww" %}

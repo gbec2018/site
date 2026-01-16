@@ -5,6 +5,7 @@ date: 2024-07-10
 categories: [video]
 youtube_id: 2r9Ne02J9kM
 thumbnail: /assets/images/2024/07/Screenshot-from-2024-07-10-17-17-14.png
+tags: ["Bitcoin", "Cryptography", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるランポート署名の解説動画です。

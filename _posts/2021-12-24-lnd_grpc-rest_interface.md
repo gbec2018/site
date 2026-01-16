@@ -5,6 +5,7 @@ date: 2021-12-24
 categories: [video]
 youtube_id: 5PuGVFQG-dE
 thumbnail: /assets/images/2021/12/【動画で学ぶブロックチェーン】LNDのgRPCRESTインターフェース.jpeg
+tags: ["Bitcoin", "blockchain", "LND", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるLNDのgRPC/RESTインターフェースについての解説動画です。

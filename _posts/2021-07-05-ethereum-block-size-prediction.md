@@ -5,6 +5,7 @@ date: 2021-07-05
 categories: [video]
 youtube_id: Ui6zwBilgyM
 thumbnail: /assets/images/2021/07/gbec20210618-Ethereumのブロックサイズ予測.png
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 {% include youtube.html id="Ui6zwBilgyM" %}

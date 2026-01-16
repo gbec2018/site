@@ -5,6 +5,7 @@ date: 2020-12-16
 categories: [video]
 youtube_id: XzcSIlKlQ1o
 thumbnail: /assets/images/2020/12/【動画で学ぶブロックチェーン】CPFP-carve-out-安土-茂亨氏.jpeg
+tags: ["Bitcoin", "CPFP", "安土 茂亨"]
 ---
 
 {% include youtube.html id="XzcSIlKlQ1o" %}

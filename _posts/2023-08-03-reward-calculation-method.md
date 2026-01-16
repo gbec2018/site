@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Rewardの計�
 date: 2023-08-03
 categories: [video]
 youtube_id: Z1Hc9p02znE
-thumbnail: /assets/images/2023/08/【動画で学ぶブロックチェーン】【Ethereum】Rewardの計算方法-中城元臣氏.jpeg
+thumbnail: /assets/images/2023/08/img-df875e7f.jpeg
+tags: ["blockchain", "Ethereum", "reward", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるRewardの計算方法についての解説です。

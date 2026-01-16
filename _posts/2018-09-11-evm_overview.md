@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】EVM入門 - 中城元臣氏
 date: 2018-09-11
 categories: [video]
 youtube_id: qc0vG2XdbyU
-thumbnail: /assets/images/2018/11/【動画で学ぶブロックチェーン】EVM入門-中城元臣氏.jpeg
+thumbnail: /assets/images/2018/11/img-fb428bb1.jpeg
+tags: ["Ethereum", "中城元臣"]
 ---
 
 {% include youtube.html id="qc0vG2XdbyU" %}

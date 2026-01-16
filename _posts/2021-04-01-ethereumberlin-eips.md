@@ -5,6 +5,7 @@ date: 2021-04-01
 categories: [video]
 youtube_id: qCZFdygmE1w
 thumbnail: /assets/images/2021/04/【動画で学ぶブロックチェーン】【Ethereum】Berlin-EIPs—　中城元臣氏.jpeg
+tags: ["Berlin", "Bitcoin", "blockchain", "Ethereum", "gbec", "中城元臣"]
 ---
 
 {% include youtube.html id="qCZFdygmE1w" %}

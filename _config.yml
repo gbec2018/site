@@ -39,6 +39,20 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
 
+# Auto Pages for tags
+autopages:
+  enabled: true
+  tags:
+    enabled: true
+    layouts:
+      - 'tag.html'
+    title: ':tag の記事一覧'
+    permalink: '/tag/:tag/'
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+
 # Exclude
 exclude:
   - Gemfile

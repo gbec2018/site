@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Bitcoin】Lightning Netw
 date: 2020-06-18
 categories: [video]
 youtube_id: Qh00OjFTh44
-thumbnail: /assets/images/2020/06/スクリーンショット-2020-06-18-13.06.44.png
+thumbnail: /assets/images/2020/06/img-c7bb0a15.png
+tags: ["Bitcoin", "blockchain", "Lightning Network", "望月紀生"]
 ---
 
 {% include youtube.html id="Qh00OjFTh44" %}

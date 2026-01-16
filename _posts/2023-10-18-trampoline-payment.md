@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Trampoline Payment - 安土
 date: 2023-10-18
 categories: [video]
 youtube_id: dI7yVJnve6c
-thumbnail: /assets/images/2023/10/【動画で学ぶブロックチェーン】Trampoline-Payment-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2023/10/img-247cda83.jpeg
+tags: ["Bitcoin", "Lightning Network", "Trampoline Payment", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるTrampoline Paymentについての解説動画です。

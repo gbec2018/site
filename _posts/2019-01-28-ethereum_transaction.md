@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Ethereum Transaction- 中�
 date: 2019-01-28
 categories: [video]
 youtube_id: VMY1GFYdCK4
-thumbnail: /assets/images/2019/01/【動画で学ぶブロックチェーン】Ethereum-Transaction-中城元臣氏.jpeg
+thumbnail: /assets/images/2019/01/img-0a0b2a53.jpeg
+tags: ["Ethereum", "Ethereum Transaction", "中城元臣"]
 ---
 
 {% include youtube.html id="VMY1GFYdCK4" %}

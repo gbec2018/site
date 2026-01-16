@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】 Lightning Networkによる
 date: 2021-05-14
 categories: [video]
 youtube_id: _9zClmTFJG8
-thumbnail: /assets/images/2021/05/【動画で学ぶブロックチェーン】-Lightning-NetworkによるBitcoinの高速決済実践-深田涼太氏.jpeg
+thumbnail: /assets/images/2021/05/img-5ccc2e8b.jpeg
+tags: ["Bitcoin", "gbec", "LightningNetwork"]
 ---
 
 {% include youtube.html id="_9zClmTFJG8" %}

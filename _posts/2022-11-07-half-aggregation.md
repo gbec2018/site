@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Schnorr署名のハーフ�
 date: 2022-11-07
 categories: [video]
 youtube_id: ghxKy52udmM
-thumbnail: /assets/images/2022/11/【動画で学ぶブロックチェーン】Schnorr署名のハーフアグリゲーション-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2022/11/img-c223fbf4.jpeg
+tags: ["Bitcoin", "Cryptography", "Schnorr Signature", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるSchnorr署名のハーフアグリゲーションについての解説動画です。

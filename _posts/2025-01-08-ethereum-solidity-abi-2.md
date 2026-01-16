@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Solidity ABI 
 date: 2025-01-08
 categories: [video]
 youtube_id: 0xopmh1Oma0
-thumbnail: /assets/images/2025/01/【動画で学ぶブロックチェーン】【Ethereum】Solidity-ABI-2-関数IDとセレクター-中城-元臣-氏.jpeg
+thumbnail: /assets/images/2025/01/img-763bb013.jpeg
+tags: ["Ethereum", "Solidity", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSolidity ABI 関数IDとセレクターについての解説動画です。

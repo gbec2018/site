@@ -5,6 +5,7 @@ date: 2021-11-16
 categories: [video]
 youtube_id: C2nnAq_dp1Q
 thumbnail: /assets/images/2021/11/Screenshot-from-2021-11-16-10-18-41.png
+tags: ["Bitcoin", "Lightning Network", "安土 茂亨"]
 ---
 
 【動画で学ぶブロックチェーン】Anchor Output -安土 茂亨氏

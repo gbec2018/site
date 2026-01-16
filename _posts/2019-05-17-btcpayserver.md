@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】BTCPay Server - 望月紀�
 date: 2019-05-17
 categories: [video]
 youtube_id: ix8IoxkwMwI
-thumbnail: /assets/images/2019/05/【動画で学ぶブロックチェーン】BTCPay-Server-望月紀生氏.jpeg
+thumbnail: /assets/images/2019/05/img-60baef8f.jpeg
+tags: ["Bitcoin", "BTCPay Server", "望月 紀生"]
 ---
 
 {% include youtube.html id="ix8IoxkwMwI" %}

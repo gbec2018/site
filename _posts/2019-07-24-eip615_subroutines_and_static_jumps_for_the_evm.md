@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】EIP615   Subroutines and St
 date: 2019-07-24
 categories: [video]
 youtube_id: RKE-kkITyhk
-thumbnail: /assets/images/2019/07/【動画で学ぶブロックチェーン】EIP615-Subroutines-and-Static-Jumps-for-the-EVM-中城元臣氏.jpeg
+thumbnail: /assets/images/2019/07/img-a13bdc06.jpeg
+tags: ["Ethereum", "中城元臣"]
 ---
 
 {% include youtube.html id="RKE-kkITyhk" %}

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Lightning Network 1 ~Noise 
 date: 2019-09-02
 categories: [video]
 youtube_id: lGsso8g-F20
-thumbnail: /assets/images/2019/08/【動画で学ぶブロックチェーン】Lightning-Network-Noise-Protocol-望月紀生氏.jpeg
+thumbnail: /assets/images/2019/08/img-229c4a7e.jpeg
+tags: ["Handshake", "Lightning Network", "Noise Protocol", "望月 紀生"]
 ---
 
 {% include youtube.html id="lGsso8g-F20" %}

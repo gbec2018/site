@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】\"トークン・NFTとERC\
 date: 2022-02-21
 categories: [video]
 youtube_id: gv7pXSYJDms
-thumbnail: /assets/images/2022/02/【動画で学ぶブロックチェーン】トークン・NFTとERC-中城元臣氏.jpeg
+thumbnail: /assets/images/2022/02/img-17f17845.jpeg
+tags: ["ERC-1155", "ERC-721", "ERC20", "NFT", "Token", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるトークン・NFTとERCの関係についての解説です。

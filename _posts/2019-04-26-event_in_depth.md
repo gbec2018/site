@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Event in Depth - 中城元�
 date: 2019-04-26
 categories: [video]
 youtube_id: x_hJRZGpnYM
-thumbnail: /assets/images/2019/04/【動画で学ぶブロックチェーン】Event-in-Depth-中城元臣氏.jpeg
+thumbnail: /assets/images/2019/04/img-d8740ea2.jpeg
+tags: ["Ethereum", "Event", "SmartContract", "中城元臣"]
 ---
 
 {% include youtube.html id="x_hJRZGpnYM" %}

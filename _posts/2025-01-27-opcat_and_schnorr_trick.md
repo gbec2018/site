@@ -5,6 +5,7 @@ date: 2025-01-27
 categories: [video]
 youtube_id: XHJ1Cv1c31M
 thumbnail: /assets/images/2025/01/Screenshot-from-2025-01-27-17-21-56.png
+tags: ["Bitcoin", "Cryptography", "ECDSA", "Schnorr署名", "コベナンツ", "安土 茂亨"]
 ---
 
 Chaintope CTO 安土氏によるOP_CATとSchnorrトリックを利用したコベナンツの解説動画です。

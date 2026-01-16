@@ -5,6 +5,7 @@ date: 2025-07-02
 categories: [video]
 youtube_id: 0OvScoDpcVw
 thumbnail: /assets/images/2025/07/Screenshot-from-2025-07-02-17-13-27.png
+tags: ["Bitcoin", "安土 茂亨"]
 ---
 
 Chaintope 社の CTO を務める安土氏によるAssumeUTXOについての解説です。

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】SolidityにおけるStorage
 date: 2021-12-28
 categories: [video]
 youtube_id: qRR1X0NQSLM
-thumbnail: /assets/images/2021/12/【動画で学ぶブロックチェーン】【Ethereum】SolidityにおけるStorageの管理-中城元臣氏.jpeg
+thumbnail: /assets/images/2021/12/img-be8388fb.jpeg
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるgo-ethereumのデータ取得方法についての解説です。  

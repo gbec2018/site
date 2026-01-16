@@ -5,6 +5,7 @@ date: 2020-09-03
 categories: [video]
 youtube_id: gaawfwJuaLc
 thumbnail: /assets/images/2020/09/【動画で学ぶブロックチェーン】Generalized-Channels-安土-茂亨氏.jpeg
+tags: ["Bitcoin", "Lightning Network", "Payment Channel", "安土 茂亨"]
 ---
 
 {% include youtube.html id="gaawfwJuaLc" %}

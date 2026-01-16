@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】EIP-2315-Simp
 date: 2020-08-04
 categories: [video]
 youtube_id: Gg4OMCQAq5s
-thumbnail: /assets/images/2020/07/【Ethereum】EIP-2315-Simple-Subroutines-for-the-EVM-中城元臣氏.jpeg
+thumbnail: /assets/images/2020/07/img-4f8ac477.jpeg
 ---
 
 {% include youtube.html id="Gg4OMCQAq5s" %}

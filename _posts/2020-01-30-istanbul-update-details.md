@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Istanbul Upda
 date: 2020-01-30
 categories: [video]
 youtube_id: 91X5wzgYlEg
-thumbnail: /assets/images/2020/01/【動画で学ぶブロックチェーン】【Ethereum】Istanbul-Update-Details-中城元臣氏.jpeg
+thumbnail: /assets/images/2020/01/img-33f13f01.jpeg
+tags: ["Ethereum", "Istanbul", "中城元臣"]
 ---
 
 {% include youtube.html id="91X5wzgYlEg" %}

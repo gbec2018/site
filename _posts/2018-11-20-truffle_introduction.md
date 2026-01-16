@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Truffleの紹介 - 中城�
 date: 2018-11-20
 categories: [video]
 youtube_id: Xp713VApmmk
-thumbnail: /assets/images/2018/11/【動画で学ぶブロックチェーン】Truffleの紹介-中城元臣氏.jpeg
+thumbnail: /assets/images/2018/11/img-41991561.jpeg
+tags: ["Ethereum", "Truffle", "中城元臣"]
 ---
 
 {% include youtube.html id="Xp713VApmmk" %}

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】ブルームフィルター
 date: 2019-10-07
 categories: [video]
 youtube_id: T49UGXbDLME
-thumbnail: /assets/images/2019/10/【動画で学ぶブロックチェーン】ブルームフィルターを使ったSPVノード-1-谷口耕平氏.jpeg
+thumbnail: /assets/images/2019/10/img-35b0f123.jpeg
+tags: ["Bloom Filter", "Compact Block Filter", "SPVノード", "谷口耕平"]
 ---
 
 {% include youtube.html id="T49UGXbDLME" %}

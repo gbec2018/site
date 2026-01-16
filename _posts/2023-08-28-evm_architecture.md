@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】EVM Architect
 date: 2023-08-28
 categories: [video]
 youtube_id: zUX-vQFeoRU
-thumbnail: /assets/images/2023/08/【動画で学ぶブロックチェーン】【Ethereum】EVM-Architecture-中城元臣氏.jpeg
+thumbnail: /assets/images/2023/08/img-0a55776e.jpeg
+tags: ["blockchain", "Ethereum", "EVM", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEVM Architectureについての解説です。

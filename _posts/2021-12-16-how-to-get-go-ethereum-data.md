@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】go-ethereumのデータ取�
 date: 2021-12-16
 categories: [video]
 youtube_id: zLf5494yqEs
-thumbnail: /assets/images/2021/12/【Ethereum】go-ethereumのデータ取得方法-中城元臣氏.jpeg
+thumbnail: /assets/images/2021/12/img-286e5b4e.jpeg
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるgo-ethereumのデータ取得方法についての解説です。  

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Mimblewimble -　安土 茂
 date: 2019-03-29
 categories: [video]
 youtube_id: 1MVesvpNgec
-thumbnail: /assets/images/2019/03/【動画で学ぶブロックチェーン】Mimblewimble-　安土-茂亨氏.jpeg
+thumbnail: /assets/images/2019/03/img-0212976a.jpeg
+tags: ["Bitcoin", "Mimblewimble", "Schnorr署名", "安土 茂亨"]
 ---
 
 {% include youtube.html id="1MVesvpNgec" %}

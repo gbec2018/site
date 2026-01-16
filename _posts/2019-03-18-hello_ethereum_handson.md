@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Ethereumのスマートコ�
 date: 2019-03-18
 categories: [video]
 youtube_id: 2jbuG6B9Rh8
-thumbnail: /assets/images/2019/03/【動画で学ぶブロックチェーン】Ethereumのスマートコントラクト開発入門-谷口耕平氏.jpeg
+thumbnail: /assets/images/2019/03/img-34850509.jpeg
+tags: ["Ethereum", "Truffle", "スマートコントラクト", "ハンズオン", "谷口耕平"]
 ---
 
 {% include youtube.html id="2jbuG6B9Rh8" %}

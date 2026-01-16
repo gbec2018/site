@@ -5,6 +5,7 @@ date: 2025-08-06
 categories: [video]
 youtube_id: -vOHi5BCV-c
 thumbnail: /assets/images/2025/08/Screenshot-from-2025-08-06-11-22-37.png
+tags: ["Cryptography", "安土 茂亨"]
 ---
 
 Chaintope 社の CTO を務める安土氏によるFiat-Shamir変換とその注意点についての解説です。

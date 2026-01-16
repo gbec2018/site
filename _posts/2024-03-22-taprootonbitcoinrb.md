@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】bitcoinrbでtaproot対応�
 date: 2024-03-22
 categories: [video]
 youtube_id: FaKKiOtPOIw
-thumbnail: /assets/images/2024/03/【動画で学ぶブロックチェーン】bitcoinrbでtaproot対応のアドレス・トランザクション作成-深田涼太氏.jpeg
+thumbnail: /assets/images/2024/03/img-60914370.jpeg
+tags: ["Bitcoin", "Taproot", "深田涼太"]
 ---
 
 HAW International エンジニア深田氏によるbitcoinrbでtaproot対応のアドレス・トランザクション作成についての解説です。

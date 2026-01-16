@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】EVM opcode in
 date: 2024-10-02
 categories: [video]
 youtube_id: LB1xoG580NQ
-thumbnail: /assets/images/2024/10/【動画で学ぶブロックチェーン】【Ethereum】EVM-opcode-instruction-5-中城-元臣-氏.jpeg
+thumbnail: /assets/images/2024/10/img-eb4e6606.jpeg
+tags: ["Ethereum", "EVM", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEVM opcode Instructionについての解説動画です。

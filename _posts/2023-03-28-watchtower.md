@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】WatchTowerによる不正�
 date: 2023-03-28
 categories: [video]
 youtube_id: sEU5TKh-l80
-thumbnail: /assets/images/2023/03/【動画で学ぶブロックチェーン】WatchTowerによる不正検知-深田涼太氏.jpeg
+thumbnail: /assets/images/2023/03/img-8134102c.jpeg
+tags: ["Lightning Network", "WatchTower", "深田涼太"]
 ---
 
 HAW International エンジニア深田氏によるWatchTowerによる不正検知についての解説です。

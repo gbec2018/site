@@ -5,6 +5,7 @@ date: 2022-07-14
 categories: [video]
 youtube_id: p-sLZv_kseA
 thumbnail: /assets/images/2022/07/gbec20220614-Why-reorged-Beacon-Chain_page-0004.jpg
+tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるReorged Beacon Chainについての解説です。

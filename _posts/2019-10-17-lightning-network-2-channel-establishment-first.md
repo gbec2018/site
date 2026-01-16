@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Lightning Network 2 ~ Chann
 date: 2019-10-17
 categories: [video]
 youtube_id: -jlIqLeXMy8
-thumbnail: /assets/images/2019/10/動画で学ぶブロックチェーン】Lightning-Network-2-Channel-Establishment-前半-望月紀生氏.jpeg
+thumbnail: /assets/images/2019/10/img-45b45931.jpeg
+tags: ["BOLT", "Lightning Network", "望月 紀生"]
 ---
 
 {% include youtube.html id="-jlIqLeXMy8" %}

@@ -4,7 +4,8 @@ title: "【動画で学ぶブロックチェーン】Ethereum transaction poolin
 date: 2019-03-18
 categories: [video]
 youtube_id: QtgCbh1KEhw
-thumbnail: /assets/images/2019/03/【動画で学ぶブロックチェーン】Ethereum-transaction-pooling-中城元臣氏.jpeg
+thumbnail: /assets/images/2019/03/img-51e91246.jpeg
+tags: ["Ethereum", "Ethereum Transaction", "中城元臣"]
 ---
 
 {% include youtube.html id="QtgCbh1KEhw" %}
