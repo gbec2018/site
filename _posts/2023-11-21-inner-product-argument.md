@@ -23,4 +23,4 @@ Chaintope CTO 安土氏によるInner Product Argumentについての解説動�
 
 ※ スライドP.6の右下の式に一部誤りがありました。以下が正しい式になります。
 
-![](/assets/images/2023/11/Screenshot-from-2023-12-04-17-47-46-300x67.png)
+<img src="{{ '/assets/images/2023/11/Screenshot-from-2023-12-04-17-47-46-300x67.png' | relative_url }}" alt="">

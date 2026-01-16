@@ -3,8 +3,9 @@ layout: post
 title: "【動画で学ぶブロックチェーン】【Ethereum】Solidity Try/Catch—　中城元臣氏"
 date: 2021-02-22
 categories: [video]
+permalink: /2021/02/22/solidity-try-catch-　/
+thumbnail: /assets/images/2021/02/solidity-try-catch.jpeg
 youtube_id: _0_VCYLsMAM
-thumbnail: /assets/images/2021/02/動画で学ぶブロックチェーン】【Ethereum】Solidity-TryCatch—　中城元臣氏.jpeg
 ---
 
 {% include youtube.html id="_0_VCYLsMAM" %}

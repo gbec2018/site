@@ -3,8 +3,8 @@ layout: post
 title: "【動画で学ぶブロックチェーン】【Ethereum】 Limitations of Ethereum 　中城元臣氏"
 date: 2020-07-08
 categories: [video]
+thumbnail: /assets/images/2020/07/limitations-of-ethereum.jpeg
 youtube_id: nyResIy4LNc
-thumbnail: /assets/images/2020/07/【動画で学ぶブロックチェーン】【Ethereum】-Limitations-of-Ethereum-　中城元臣氏.jpeg
 tags: ["Ethereum", "gas cost", "中城元臣"]
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: "【動画で学ぶブロックチェーン】【Ethereum】Immutable keyword in Solidity 　中城元臣氏"
 date: 2020-08-27
 categories: [video]
+thumbnail: /assets/images/2020/08/immutable-keyword.jpeg
 youtube_id: A3bR9CjP38A
-thumbnail: /assets/images/2020/08/【動画で学ぶブロックチェーン】【Ethereum】Immutable-keyword-in-Solidity-　中城元臣氏.jpeg
 tags: ["Ethereum", "Immutable keyword", "中城元臣"]
 ---
 

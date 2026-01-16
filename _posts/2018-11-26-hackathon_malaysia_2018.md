@@ -6,7 +6,7 @@ categories: [news]
 thumbnail: /assets/images/2018/11/Eventbrite_banner-1.jpg
 ---
 
-![](/assets/images/2018/11/Eventbrite_banner-1.jpg)
+<img src="{{ '/assets/images/2018/11/Eventbrite_banner-1.jpg' | relative_url }}" alt="">
 
 12月15, 16日にマレーシアのクアラルンプールにてハッカソンを開催します。
 

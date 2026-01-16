@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】【Ethereum】Gas Complete 
 date: 2021-01-26
 categories: [video]
 youtube_id: s7KovnahQSY
-thumbnail: /assets/images/2021/01/【動画で学ぶブロックチェーン】【Ethereum】Gas-Complete-Guide—中城元臣氏.jpeg
+thumbnail: /assets/images/2021/01/img-f182dc1a.jpeg
 tags: ["blockchain", "Ethereum", "gas cost", "gbec", "中城元臣"]
 ---
 

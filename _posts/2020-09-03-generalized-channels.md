@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】Generalized Channels - 安�
 date: 2020-09-03
 categories: [video]
 youtube_id: gaawfwJuaLc
-thumbnail: /assets/images/2020/09/【動画で学ぶブロックチェーン】Generalized-Channels-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2020/09/img-9e6e58d3.jpeg
 tags: ["Bitcoin", "Lightning Network", "Payment Channel", "安土 茂亨"]
 ---
 

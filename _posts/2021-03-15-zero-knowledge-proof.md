@@ -3,7 +3,8 @@ layout: post
 title: "【動画で学ぶブロックチェーン】ゼロ知識証明- 津田匠貴氏"
 date: 2021-03-15
 categories: [video]
-thumbnail: /assets/images/2021/03/【動画で学ぶブロックチェーン】ゼロ知識証明-津田匠貴氏-1.jpeg
+permalink: /2021/03/15/zero‐knowledge-proof/
+thumbnail: /assets/images/2021/03/img-7d35d7e5.jpeg
 ---
 
 Haw International社でアルバイトをしている津田氏によるゼロ知識証明についての解説です。

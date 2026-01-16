@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】LNDのgRPC/RESTインター
 date: 2021-12-24
 categories: [video]
 youtube_id: 5PuGVFQG-dE
-thumbnail: /assets/images/2021/12/【動画で学ぶブロックチェーン】LNDのgRPCRESTインターフェース.jpeg
+thumbnail: /assets/images/2021/12/img-cb0f5010.jpeg
 tags: ["Bitcoin", "blockchain", "LND", "安土 茂亨"]
 ---
 

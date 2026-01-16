@@ -3,8 +3,8 @@ layout: post
 title: "【動画で学ぶブロックチェーン】【Bitcoin実践】 P2SHの送金の流れ　深田涼太氏"
 date: 2020-09-14
 categories: [video]
+thumbnail: /assets/images/2020/09/handson-p2sh.jpeg
 youtube_id: yCMvGUrOjOI
-thumbnail: /assets/images/2020/09/【動画で学ぶブロックチェーン】【Bitcoin実践】-P2SHの送金の流れ　深田涼太氏.jpeg
 tags: ["Bitcoin", "P2SH", "深田涼太"]
 ---
 

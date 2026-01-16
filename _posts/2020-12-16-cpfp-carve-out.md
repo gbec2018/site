@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】CPFP carve out - 安土 茂
 date: 2020-12-16
 categories: [video]
 youtube_id: XzcSIlKlQ1o
-thumbnail: /assets/images/2020/12/【動画で学ぶブロックチェーン】CPFP-carve-out-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2020/12/img-da1c90e7.jpeg
 tags: ["Bitcoin", "CPFP", "安土 茂亨"]
 ---
 

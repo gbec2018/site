@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】ブロックチェーンへ
 date: 2021-06-10
 categories: [video]
 youtube_id: Qbx18xDJmrw
-thumbnail: /assets/images/2021/06/【動画で学ぶブロックチェーン】ブロックチェーンへのコミットメントの記録方法-安土-茂亨氏.jpeg
+thumbnail: /assets/images/2021/06/img-14e5a11b.jpeg
 tags: ["Bitcoin", "安土 茂亨"]
 ---
 

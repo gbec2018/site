@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】Fast Forward Protocol"
 date: 2022-02-07
 categories: [video]
 youtube_id: ptTF7QaAmAU
-thumbnail: /assets/images/2022/02/【動画で学ぶブロックチェーン】Fast-Forward-Protocol.jpeg
+thumbnail: /assets/images/2022/02/img-25b0a17e.jpeg
 tags: ["Bitcoin", "blockchain", "Lightning Network", "安土 茂亨"]
 ---
 

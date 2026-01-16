@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】BitcoinCoreを読む ブロ
 date: 2019-05-08
 categories: [video]
 youtube_id: A3TFqRu62CA
-thumbnail: /assets/images/2019/05/【動画で学ぶブロックチェーン】BitcoinCoreを読む-ブロック0-谷口耕平氏.jpeg
+thumbnail: /assets/images/2019/05/img-6535c903.jpeg
 tags: ["Bitcoin", "ハンズオン", "谷口耕平"]
 ---
 

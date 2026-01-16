@@ -3,8 +3,8 @@ layout: post
 title: "【動画で学ぶブロックチェーン】【Ethereum】Modified GHOST-　中城元臣氏"
 date: 2020-04-15
 categories: [video]
+thumbnail: /assets/images/2020/04/modified-ghost.jpeg
 youtube_id: FrDBgfgYpjM
-thumbnail: /assets/images/2020/04/【動画で学ぶブロックチェーン】【Ethereum】Modified-GHOST-　中城元臣氏.jpeg
 tags: ["Ethereum", "GHOST", "Modified GHOST"]
 ---
 

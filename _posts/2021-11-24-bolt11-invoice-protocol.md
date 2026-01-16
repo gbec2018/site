@@ -4,7 +4,7 @@ title: "【動画で学ぶブロックチェーン】BOLT#11 Invoice Pr
 date: 2021-11-24
 categories: [video]
 youtube_id: uiKK0qp7kr4
-thumbnail: /assets/images/2021/11/【動画で学ぶブロックチェーン】BOLT11-Invoice-Protocol-深田涼太氏.jpeg
+thumbnail: /assets/images/2021/11/img-b77f85a1.jpeg
 tags: ["Bitcoin", "blockchain", "Lightning Network", "深田涼太"]
 ---
 

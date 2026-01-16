@@ -3,6 +3,7 @@ layout: post
 title: "【動画で学ぶブロックチェーン】Adaptor Signatureを利用したAtomic Swap  - Schnorr 版 - 安土 茂亨氏"
 date: 2018-12-03
 categories: [video]
+thumbnail: /assets/images/2018/12/adaptor-signature-schnorr.jpeg
 youtube_id: 2WbSGO70-ig
 tags: ["Atomic Swap", "Schnorr Signature", "Shigeyuki Azuchi"]
 ---
