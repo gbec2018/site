@@ -1,6 +1,6 @@
 # GBEC - Go Blockchain Engineers Community
 
-ブロックチェーンエンジニアのためのコミュニティサイトGBECのWebサイトです。
+ブロックチェーンエンジニアのためのコミュニティサイト[GBECのWebサイト](https://goblockchain.network/)です。
 
 ## サイト構成
 
