@@ -18,7 +18,7 @@ permalink: /contributor/
 
           <!-- 安土 茂亨 -->
           <div style="width: 300px; background: #fff; box-shadow: 0 0 3px rgba(0,0,0,0.2); padding: 20px;">
-            <img src="/assets/images/2019/03/azuchi.png" alt="安土 茂亨" style="width: 100%; height: auto;">
+            <img src="{{ '/assets/images/2019/03/azuchi.png' | relative_url }}" alt="安土 茂亨" style="width: 100%; height: auto;">
             <h3 style="margin-top: 15px; margin-bottom: 5px;">安土 茂亨</h3>
             <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">株式会社chaintope CTO</p>
             <p style="font-size: 0.9em;">2015年からBitcoinの技術を中心にリサーチやOSSライブラリを開発。共著『ブロックチェーン技術概論』</p>
@@ -30,7 +30,7 @@ permalink: /contributor/
 
           <!-- 中城 元臣 -->
           <div style="width: 300px; background: #fff; box-shadow: 0 0 3px rgba(0,0,0,0.2); padding: 20px;">
-            <img src="/assets/images/2019/03/nakajo.png" alt="中城 元臣" style="width: 100%; height: auto;">
+            <img src="{{ '/assets/images/2019/03/nakajo.png' | relative_url }}" alt="中城 元臣" style="width: 100%; height: auto;">
             <h3 style="margin-top: 15px; margin-bottom: 5px;">中城 元臣</h3>
             <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">株式会社chaintope Chief Ethereum Researcher</p>
             <p style="font-size: 0.9em;">Ethereum Researcher, Solidity, TruffleなどSmart Contract開発周辺ツールにフルコミット。Hi-Ethereにてtechnical Advisorとして活動中。</p>
@@ -42,7 +42,7 @@ permalink: /contributor/
 
           <!-- 深田 涼太 -->
           <div style="width: 300px; background: #fff; box-shadow: 0 0 3px rgba(0,0,0,0.2); padding: 20px;">
-            <img src="/assets/images/2022/10/HAW_Fukata_221014.jpg" alt="深田 涼太" style="width: 100%; height: auto;">
+            <img src="{{ '/assets/images/2022/10/HAW_Fukata_221014.jpg' | relative_url }}" alt="深田 涼太" style="width: 100%; height: auto;">
             <h3 style="margin-top: 15px; margin-bottom: 5px;">深田 涼太</h3>
             <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">株式会社ハウインターナショナル</p>
             <p style="font-size: 0.9em;">大学でブロックチェーンを研究している先生をきっかけにBitcoinを知り調べ始める。ブロックチェーン関係の仲間が増やすため『BitPickers』というコミュニティを作り、毎週オンラインでの勉強会を主催。</p>
