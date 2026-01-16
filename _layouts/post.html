@@ -10,16 +10,6 @@ layout: default
       </a>
       <meta itemprop="position" content="1">
     </li>
-    {% if page.categories %}
-    {% for cat in page.categories %}
-    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-      <a href="{{ '/category/' | append: cat | relative_url }}" itemprop="item">
-        <span itemprop="name">{{ cat }}</span>
-      </a>
-      <meta itemprop="position" content="2">
-    </li>
-    {% endfor %}
-    {% endif %}
     <li class="breadcrumb-title" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
       <span itemprop="name">{{ page.title }}</span>
       <meta itemprop="position" content="3">
@@ -29,14 +19,6 @@ layout: default
   <article id="post-{{ page.id }}" class="post type-post status-publish format-standard has-post-thumbnail hentry {% for cat in page.categories %}category-{{ cat | slugify }} {% endfor %}" role="article">
     <header>
       <div class="post-meta clearfix">
-        <div class="cat-tag">
-          {% for cat in page.categories %}
-          <div class="single-post-category" {% if cat == 'video' or cat == 'movie' %}style="background:#68bc3a"{% endif %}>
-            <a href="{{ '/category/' | append: cat | relative_url }}" rel="category tag">{{ cat }}</a>
-          </div>
-          {% endfor %}
-        </div>
-
         <h1 class="single-post-title entry-title">{{ page.title }}</h1>
 
         {% if page.tags and page.tags.size > 0 %}
