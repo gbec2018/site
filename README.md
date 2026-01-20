@@ -65,7 +65,9 @@ docker compose build --no-cache
 YYYY-MM-DD-slug.md
 ```
 
-例: `2026-01-16-frost.md`
+例: `2026-01-16-frost.md` → URL: `/2026/01/frost/`
+
+**注意**: `slug`部分がそのままURLのパスになります。英数字とハイフンのみを使用してください。
 
 ### 2. Front Matterの記述
 
