@@ -1,0 +1,7 @@
+_site
+.jekyll-cache
+.jekyll-metadata
+.git
+.github
+.idea
+*.log

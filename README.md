@@ -32,7 +32,28 @@ bundle install
 bundle exec jekyll serve
 ```
 
-ブラウザで http://127.0.0.1:4000/ にアクセスしてプレビューできます。
+ブラウザで http://localhost:4000/ にアクセスしてプレビューできます。
+
+### Dockerを使う場合
+
+Rubyのインストールが不要で、Docker環境があればすぐに開発を始められます。
+
+```bash
+# 起動
+docker compose up
+
+# バックグラウンドで起動
+docker compose up -d
+
+# 停止
+docker compose down
+
+# リビルド（Gemfile変更時など）
+docker compose build --no-cache
+```
+
+ブラウザで http://localhost:4000/ にアクセスしてプレビューできます。
+ファイルを編集すると自動的にリビルドされます。
 
 ## 投稿の追加方法
 
@@ -117,9 +138,9 @@ assets/images/YYYY/MM/filename.png
 bundle exec jekyll serve
 ```
 
-ブラウザで http://127.0.0.1:4000/ にアクセスして確認します。
+ブラウザで http://localhost:4000/ にアクセスして確認します。
 
-コンテンツの作成ができたらPRを作成してください。
+コンテンツの作成ができたらPRを作成し、解説担当者をレビュアーに割り当ててください。
 
 mainブランチへのマージ後、GitHub Actionsが自動でビルド・デプロイを実行します。
 
