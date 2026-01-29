@@ -7,7 +7,7 @@ youtube_id: Gg4OMCQAq5s
 thumbnail: /assets/images/2020/07/img-4f8ac477.jpeg
 ---
 
-{% include youtube.html id="Gg4OMCQAq5s" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による EIP2315(Simple Subroutines for the EVM)についての解説です。
 

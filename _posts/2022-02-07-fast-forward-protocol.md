@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "Lightning Network", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるLNで提案されている、秘密鍵をオフラインにしたまま支払いの受け入れを可能にするFast Forward Protocolについての解説動画です。
 
-{% include youtube.html id="ptTF7QaAmAU" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

@@ -8,7 +8,7 @@ youtube_id: L5-lgDlY64Q
 tags: ["Bitcoin", "Ethereum", "中城元臣"]
 ---
 
-{% include youtube.html id="L5-lgDlY64Q" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Bitcoin と Ethereumの比較についての解説です。  
 

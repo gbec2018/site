@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Taproot", "深田涼太"]
 
 HAW International エンジニア深田氏によるbitcoinrbでtaproot対応のアドレス・トランザクション作成についての解説です。
 
-{% include youtube.html id="FaKKiOtPOIw" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

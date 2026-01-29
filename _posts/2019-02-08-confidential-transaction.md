@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/02/img-beee7a19.jpeg
 tags: ["Bitcoin", "CT", "安土 茂亨"]
 ---
 
-{% include youtube.html id="NbZE-jOv97M" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による Confidential Transactionの仕組みについての解説です。 
 

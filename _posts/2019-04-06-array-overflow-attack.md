@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/04/img-366d6e0c.jpeg
 tags: ["Ethereum", "Ethereum Transaction", "スマートコントラクト", "ハンズオン", "中城元臣"]
 ---
 
-{% include youtube.html id="lZ8Wyi9Oq5Q" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEVM の構造とその脆弱性を突いた Array Overflow Attack の解説動画です。EVMアーキテクチャの説明も一部含まれています。またRemix Solidityを用いたデバッグ方法の参考にもなるかもしれないです。
 

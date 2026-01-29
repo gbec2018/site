@@ -10,7 +10,7 @@ tags: ["ERC-1155", "ERC-721", "ERC20", "NFT", "Token", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるトークン・NFTとERCの関係についての解説です。
 
-{% include youtube.html id="gv7pXSYJDms" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

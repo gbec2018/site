@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Tapyrus", "奥村潤"]
 
 Chaintope 社のブロックチェーンエンジニアを務める奥村氏によるTapyrusの使い方についての解説です。
 
-{% include youtube.html id="Upo1NXJeFoI" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

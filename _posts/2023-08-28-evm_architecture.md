@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "EVM", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEVM Architectureについての解説です。
 
-{% include youtube.html id="zUX-vQFeoRU" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

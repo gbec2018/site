@@ -10,7 +10,7 @@ tags: ["EVM", "opcode", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEVM opcode Instructionについての解説です。
 
-{% include youtube.html id="LnUz1vVOf5s" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

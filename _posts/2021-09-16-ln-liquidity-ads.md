@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "Lightning Network", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるLNのゴシップネットワークを使った流動性の配信についての解説です。  
 
-{% include youtube.html id="kwdIKz6LK2c" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

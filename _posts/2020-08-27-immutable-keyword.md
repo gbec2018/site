@@ -8,7 +8,7 @@ youtube_id: A3bR9CjP38A
 tags: ["Ethereum", "Immutable keyword", "中城元臣"]
 ---
 
-{% include youtube.html id="A3bR9CjP38A" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Immutable keyword in Solidity の解説です。
 

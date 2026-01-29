@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/11/img-c9107c85.jpeg
 tags: ["Ethereum", "Mining Reward", "中城元臣"]
 ---
 
-{% include youtube.html id="xxXu8IR5yVo" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるMining Rewardについての解説です。
 

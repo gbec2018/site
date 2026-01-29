@@ -10,7 +10,7 @@ tags: ["Lightning Network", "WatchTower", "深田涼太"]
 
 HAW International エンジニア深田氏によるWatchTowerによる不正検知についての解説です。
 
-{% include youtube.html id="sEU5TKh-l80" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

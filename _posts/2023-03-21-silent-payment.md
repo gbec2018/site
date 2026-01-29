@@ -10,7 +10,7 @@ tags: ["Bitcoin", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるSilent Paymentについての解説動画です。
 
-{% include youtube.html id="4Cl0R3UMQ6I" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

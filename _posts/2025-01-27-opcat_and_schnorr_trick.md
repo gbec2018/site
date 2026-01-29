@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Cryptography", "ECDSA", "Schnorr署名", "コベナンツ", "
 
 Chaintope CTO 安土氏によるOP_CATとSchnorrトリックを利用したコベナンツの解説動画です。
 
-{% include youtube.html id="XHJ1Cv1c31M" %}
+{% include youtube.html %}
 
 #### この動画で学べること
 

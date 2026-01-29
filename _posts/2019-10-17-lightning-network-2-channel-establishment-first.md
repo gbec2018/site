@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/10/img-45b45931.jpeg
 tags: ["BOLT", "Lightning Network", "望月 紀生"]
 ---
 
-{% include youtube.html id="-jlIqLeXMy8" %}
+{% include youtube.html %}
 
 HAW International エンジニア 望月氏による Lightning Network における Channel Establishment の前半と，それに用いる Lightning Message のフォーマットについての解説です。
 

@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるblock.gasLimitとMiner戦略についての解説です。
 
-{% include youtube.html id="FyXxEa4FHA8" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

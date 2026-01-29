@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "Taproot", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるx-only Public Keyついての解説です。
 
-{% include youtube.html id="iehyYFDY_14" %}
+{% include youtube.html %}
 
 ####  この動画で学べる事
 

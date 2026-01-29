@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/06/img-f84c43fd.jpeg
 tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
-{% include youtube.html id="CBsuqussu2w" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるgo-ethereumの同期処理についての解説です。  
 

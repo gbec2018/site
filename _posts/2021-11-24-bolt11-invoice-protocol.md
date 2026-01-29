@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "Lightning Network", "深田涼太"]
 
 HAW International エンジニア深田氏によるBOLT#11に書かれている Invoice Protocolついての解説です。  
 
-{% include youtube.html id="uiKK0qp7kr4" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

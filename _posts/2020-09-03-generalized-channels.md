@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/09/img-9e6e58d3.jpeg
 tags: ["Bitcoin", "Lightning Network", "Payment Channel", "安土 茂亨"]
 ---
 
-{% include youtube.html id="gaawfwJuaLc" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏によるLightning Networkの新しいチャネル形態であるGeneralized Channelsの仕組みについての解説です。
 

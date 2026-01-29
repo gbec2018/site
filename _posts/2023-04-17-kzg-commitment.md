@@ -10,7 +10,7 @@ tags: ["Cryptography", "KZG Commitment", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるKZG Commitmentの仕組みについての解説動画です。
 
-{% include youtube.html id="944F-d5r3UQ" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

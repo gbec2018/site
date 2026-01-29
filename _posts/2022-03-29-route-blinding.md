@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "Lightning Network", "安土 茂亨"]
 
 Chaintope CTO 安土氏による Lightning Networkで受信者の匿名性を提供するRoute Blindingについての解説です。
 
-{% include youtube.html id="UEsewdE6V00" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

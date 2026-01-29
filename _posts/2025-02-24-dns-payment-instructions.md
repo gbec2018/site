@@ -10,7 +10,7 @@ tags: ["Bitcoin", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるBIP-353 DNS Payment Instructions の解説動画です。
 
-{% include youtube.html id="EqrRaeE5JVY" %}
+{% include youtube.html %}
 
 #### この動画で学べること
 

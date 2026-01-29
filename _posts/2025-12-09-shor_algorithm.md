@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Cryptography", "安土 茂亨"]
 
 Chaintope 社の CTO を務める安土氏が、Shorのアルゴリズムはどのようにして素因数分解や離散対数問題を解こうとしているのか、その概要を解説します。 
 
-{% include youtube.html id="RWrMmX4zhMs" %}
+{% include youtube.html %}
 
 #### この動画で学べること
 

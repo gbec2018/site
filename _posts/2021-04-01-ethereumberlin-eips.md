@@ -8,7 +8,7 @@ youtube_id: qCZFdygmE1w
 tags: ["Berlin", "Bitcoin", "blockchain", "Ethereum", "gbec", "中城元臣"]
 ---
 
-{% include youtube.html id="qCZFdygmE1w" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるBerlinに導入されるEIPについての解説です。
 

@@ -10,7 +10,7 @@ tags: ["Ethereum", "Solidity", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSolidity ABI についての解説です。
 
-{% include youtube.html id="9KrHhlTL1L4" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

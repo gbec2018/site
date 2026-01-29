@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/06/img-8740e9d0.jpeg
 tags: ["Cryptography", "RSA accumulator", "安土 茂亨", "暗号技術"]
 ---
 
-{% include youtube.html id="oNUwH2y5sMA" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による RSA accumulator の解説です。
 

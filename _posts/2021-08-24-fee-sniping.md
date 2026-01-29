@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるフィー・スナイピングという攻撃とその緩和策についての解説です。  
 
-{% include youtube.html id="NKdW2X8KyZ4" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/02/img-c15f0f16.jpeg
 tags: ["blockchain", "Bloom Filter", "SPVノード", "谷口耕平"]
 ---
 
-{% include youtube.html id="IpTAkwLsrsw" %}
+{% include youtube.html %}
 
 Chaintope谷口氏によるBloom filterを使ったSPVノードの解説です。
 

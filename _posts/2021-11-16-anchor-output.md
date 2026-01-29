@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Lightning Network", "安土 茂亨"]
 
 【動画で学ぶブロックチェーン】Anchor Output -安土 茂亨氏
 
-{% include youtube.html id="C2nnAq_dp1Q" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏によるLNの新しいチャネルタイプであるAnchor Outputついての解説です。
 

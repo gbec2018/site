@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/04/Screenshot-from-2020-04-10-17-40-52.png
 tags: ["Bitcoin", "Schnorr署名", "Tapscript", "安土 茂亨"]
 ---
 
-{% include youtube.html id="mUWcH9jF0-g" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による Tapscriptの解説です。 
 

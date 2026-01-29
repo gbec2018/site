@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "Merkleization", "SSZ", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSSZ Merkleizationについての解説です。
 
-{% include youtube.html id="KDAgzuHwDto" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

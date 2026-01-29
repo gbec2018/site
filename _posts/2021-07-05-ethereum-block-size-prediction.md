@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/07/img-d88e00f5.png
 tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
-{% include youtube.html id="Ui6zwBilgyM" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEthereumのブロックサイズ予測についての解説です。  
 

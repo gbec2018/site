@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/12/rails-bitcoin-faucet.jpeg
 youtube_id: eT6QEjmnmFk
 ---
 
-{% include youtube.html id="eT6QEjmnmFk" %}
+{% include youtube.html %}
 
 HAW International エンジニア 深田氏が、RailsでのBitcoin faucetの作成について、ハンズオンを交えながら解説します。 
 

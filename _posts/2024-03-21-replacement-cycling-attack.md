@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Lightning Network", "RBF", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるReplacement Cycling Attackについての解説動画です。
 
-{% include youtube.html id="ZV7VyW-HFAk" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

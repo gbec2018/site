@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/06/img-a76037a2.jpeg
 tags: ["Bitcoin", "谷口耕平"]
 ---
 
-{% include youtube.html id="lA64-f9kVdE" %}
+{% include youtube.html %}
 
 Chaintope 谷口氏による Bitcoin を支える技術概論の解説です。BitcoinCore を実現する基本的な技術について見ていきます。
 

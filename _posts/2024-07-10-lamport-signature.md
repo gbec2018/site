@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Cryptography", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるランポート署名の解説動画です。
 
-{% include youtube.html id="2r9Ne02J9kM" %}
+{% include youtube.html %}
 
 #### この動画で学べること
 

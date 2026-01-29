@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/01/img-f182dc1a.jpeg
 tags: ["blockchain", "Ethereum", "gas cost", "gbec", "中城元臣"]
 ---
 
-{% include youtube.html id="s7KovnahQSY" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEthereumのGasについての解説です。
 

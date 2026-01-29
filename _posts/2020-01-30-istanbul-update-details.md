@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/01/img-33f13f01.jpeg
 tags: ["Ethereum", "Istanbul", "中城元臣"]
 ---
 
-{% include youtube.html id="91X5wzgYlEg" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による，Ethereumの新しいUpdateであるIstanbulについての解説です。
 

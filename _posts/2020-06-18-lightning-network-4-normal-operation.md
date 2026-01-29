@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/06/img-c7bb0a15.png
 tags: ["Bitcoin", "blockchain", "Lightning Network", "望月紀生"]
 ---
 
-{% include youtube.html id="Qh00OjFTh44" %}
+{% include youtube.html %}
 
 HAW International エンジニア 望月氏による Lightning Network における Normal Operationについての解説です。
 

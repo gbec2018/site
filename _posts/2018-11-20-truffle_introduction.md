@@ -8,7 +8,7 @@ thumbnail: /assets/images/2018/11/img-41991561.jpeg
 tags: ["Ethereum", "Truffle", "中城元臣"]
 ---
 
-{% include youtube.html id="Xp713VApmmk" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Ethereum のスマートコントラクトの開発環境・ツールである Truffleの紹介動画です。  
 

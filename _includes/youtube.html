@@ -1,8 +1,9 @@
+{% assign video_id = include.id | default: page.youtube_id %}
 <div class="youtube-container">
   <iframe
     width="560"
     height="315"
-    src="https://www.youtube.com/embed/{{ include.id }}"
+    src="https://www.youtube.com/embed/{{ video_id }}"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen

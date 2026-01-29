@@ -10,7 +10,7 @@ tags: ["Ethereum", "EVM", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEVM Operation 4についての解説動画です。
 
-{% include youtube.html id="7oClQLxixko" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

@@ -8,7 +8,7 @@ youtube_id: 2WbSGO70-ig
 tags: ["Atomic Swap", "Schnorr Signature", "Shigeyuki Azuchi"]
 ---
 
-{% include youtube.html id="2WbSGO70-ig" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による Adaptor Signatureを利用したAtomic Swap Schnorr署名バージョンの解説です。いわゆる Scriptless Script を使った方法を用いる事により、手数料の節約と、第３者に Atomic Swap の実行をさとられないといったメリットがあります。
 

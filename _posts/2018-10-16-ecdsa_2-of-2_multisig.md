@@ -8,7 +8,7 @@ thumbnail: /assets/images/2018/10/img-5f126d28.jpeg
 tags: ["Bitcoin", "ECDSA", "安土 茂亨"]
 ---
 
-{% include youtube.html id="pOPHOz2xxFU" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による Bitcoin のスクリプトを使わずに ECDSA によって2者間のマルチシグを実現する技術の解説です。  
 

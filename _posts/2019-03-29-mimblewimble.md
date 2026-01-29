@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/03/img-0212976a.jpeg
 tags: ["Bitcoin", "Mimblewimble", "Schnorr署名", "安土 茂亨"]
 ---
 
-{% include youtube.html id="1MVesvpNgec" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による Mimblewimble についての解説です。
 

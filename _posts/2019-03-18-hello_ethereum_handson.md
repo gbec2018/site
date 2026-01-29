@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/03/img-34850509.jpeg
 tags: ["Ethereum", "Truffle", "スマートコントラクト", "ハンズオン", "谷口耕平"]
 ---
 
-{% include youtube.html id="2jbuG6B9Rh8" %}
+{% include youtube.html %}
 
 Chaintope 谷口氏による Ethereumのスマートコントラクト開発の解説です。Truffle, Solidity, Metamask, Web3.js を使い、Hello World レベルの DApp を例に DApp開発の流れを体験することができます。
 

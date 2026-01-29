@@ -8,7 +8,7 @@ youtube_id: yCMvGUrOjOI
 tags: ["Bitcoin", "P2SH", "深田涼太"]
 ---
 
-{% include youtube.html id="yCMvGUrOjOI" %}
+{% include youtube.html %}
 
 HAW International エンジニア 深田氏による， ハンズオンを交えたP2SHの送金の解説です。
 

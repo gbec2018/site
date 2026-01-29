@@ -8,7 +8,7 @@ youtube_id: nyResIy4LNc
 tags: ["Ethereum", "gas cost", "中城元臣"]
 ---
 
-{% include youtube.html id="nyResIy4LNc" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Ethereum上で設けられている制限事項ついての解説です。
 

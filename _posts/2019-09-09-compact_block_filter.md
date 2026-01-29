@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/08/img-2efd0192.jpeg
 tags: ["Compact Block Filter", "安土 茂亨"]
 ---
 
-{% include youtube.html id="aUwVM8sdAIg" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による Compact Block Filter についての解説です。
 

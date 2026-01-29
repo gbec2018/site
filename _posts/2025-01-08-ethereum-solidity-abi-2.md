@@ -10,7 +10,7 @@ tags: ["Ethereum", "Solidity", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSolidity ABI 関数IDとセレクターについての解説動画です。
 
-{% include youtube.html id="0xopmh1Oma0" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/04/img-d8740ea2.jpeg
 tags: ["Ethereum", "Event", "SmartContract", "中城元臣"]
 ---
 
-{% include youtube.html id="x_hJRZGpnYM" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Ethereum における Event の概要と使い方そしてよりディープな仕組みについて解説しています。
 

@@ -10,7 +10,7 @@ tags: ["Cryptography", "Inner Product Argument", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるInner Product Argumentについての解説動画です。
 
-{% include youtube.html id="EldM59hH55Y" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

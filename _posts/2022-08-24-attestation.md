@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるAttestationについての解説です。
 
-{% include youtube.html id="1hGj2aKE78c" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

@@ -8,7 +8,7 @@ thumbnail: /assets/images/2018/11/img-fb428bb1.jpeg
 tags: ["Ethereum", "中城元臣"]
 ---
 
-{% include youtube.html id="qc0vG2XdbyU" %}
+{% include youtube.html %}
 
 Chaintope 社で Chief Ethereum Researcher を務める中城元臣氏によるEthereum Virtual Machine(EVM)の解説です。
 

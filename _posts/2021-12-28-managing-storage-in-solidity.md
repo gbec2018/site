@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるgo-ethereumのデータ取得方法についての解説です。  
 
-{% include youtube.html id="qRR1X0NQSLM" %}
+{% include youtube.html %}
 
 **※動画内で構造体(Struct)の特徴として、Storage容量のfitting効果を説明していますが、動画公開時の最新バージョンであるv0.8.11では、Structに限らずContractで定義されたストレージ変数の全てに対して、Storageのfittingが行われます。**（参考：[https://docs.soliditylang.org/en/v0.8.11/internals/layout_in_storage.html](https://docs.soliditylang.org/en/v0.8.11/internals/layout_in_storage.html))
 

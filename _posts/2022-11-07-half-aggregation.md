@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Cryptography", "Schnorr Signature", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるSchnorr署名のハーフアグリゲーションについての解説動画です。
 
-{% include youtube.html id="ghxKy52udmM" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

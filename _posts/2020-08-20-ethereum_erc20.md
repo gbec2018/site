@@ -10,7 +10,7 @@ tags: ["blockchain", "ERC20", "Ethereum", "gbec"]
 
 HAW International 社でアルバイトをしている津田氏によるERC20についての解説です。
 
-{% include youtube.html id="UOw_tjODxcE" %}
+{% include youtube.html %}
 
 # この動画で学べる事  
 

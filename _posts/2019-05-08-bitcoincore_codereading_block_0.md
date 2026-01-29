@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/05/img-6535c903.jpeg
 tags: ["Bitcoin", "ハンズオン", "谷口耕平"]
 ---
 
-{% include youtube.html id="A3TFqRu62CA" %}
+{% include youtube.html %}
 
 Chaintope 谷口氏による BitcoinCoreの解説です。C++によって記述されたBitcoinCoreのコードを実際に読み、ブロックやチェーンの構造を見ていきます。
 

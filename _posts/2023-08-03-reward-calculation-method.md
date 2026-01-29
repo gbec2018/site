@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "reward", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるRewardの計算方法についての解説です。
 
-{% include youtube.html id="Z1Hc9p02znE" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

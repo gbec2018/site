@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/01/img-f97e3e50.jpeg
 tags: ["Ethereum", "中城元臣"]
 ---
 
-{% include youtube.html id="XmEt3UrsVv8" %}
+{% include youtube.html %}
 
 Chaintope 社の 中城氏によるEthereumのデータのエンコーディングとデータフォーマットであるRLPとMerkle Patricia Treeについての解説です。
 

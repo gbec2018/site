@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/01/img-12780cc5.jpeg
 tags: ["Adaptor Signature", "Atomic Swap", "Bitcoin", "ECDSA", "Scriptless Script", "安土 茂亨"]
 ---
 
-{% include youtube.html id="AM8NOovm5iI" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による Adaptor Signatureを利用したAtomic SwapのECDSA版についての解説です。Scriptless Script ではなく ECDSAを使って Atomic Swap を実現します。 
 

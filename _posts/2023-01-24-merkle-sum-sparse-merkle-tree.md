@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Taro", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるBitcoin上の新しいアセットプロトコルTaroの一部でもあるMerkle Sum Sparse Merkle Treeについての解説動画です。
 
-{% include youtube.html id="DGebtAqVTXs" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

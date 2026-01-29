@@ -10,7 +10,7 @@ tags: ["Bitcoin", "p2p Network", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるBitcoin Coreに新しく導入されたPay to Anchorおよび1P1C（1 Parent 1 Child）リレーポリシーおよびエフェメラルダストに関する解説動画です。
 
-{% include youtube.html id="OcB-2bl3ZHM" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

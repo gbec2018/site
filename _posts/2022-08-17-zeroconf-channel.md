@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Lightning Network", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるZero-conf Channel(旧Turbo Channel)についての解説動画です。
 
-{% include youtube.html id="JTY7WGudL0I" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

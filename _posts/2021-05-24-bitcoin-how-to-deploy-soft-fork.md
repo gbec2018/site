@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/05/Screenshot-from-2021-05-24-08-58-52.png
 tags: ["Bitcoin", "blockchain", "安土 茂亨"]
 ---
 
-{% include youtube.html id="_3fgK4aYz3E" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏によるBitcoinのソフトフォークのデプロイ方法についての解説です。  
 

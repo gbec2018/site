@@ -8,7 +8,7 @@ thumbnail: /assets/images/2018/11/img-7f7e2072.jpeg
 tags: ["Bitcoin", "谷口耕平"]
 ---
 
-{% include youtube.html id="jNaKFN2nNh0" %}
+{% include youtube.html %}
 
 Chaintope 谷口氏による BitcoinのBlockchainの解説です。  
 

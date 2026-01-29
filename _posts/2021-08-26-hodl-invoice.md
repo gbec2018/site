@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "Lightning Network", "深田涼太"]
 
 HAW International エンジニア深田氏によるHodl Invoiceについての解説です。  
 
-{% include youtube.html id="k_kbH-MKn7I" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

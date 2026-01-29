@@ -10,7 +10,7 @@ tags: ["Cryptography", "安土 茂亨"]
 
 Chaintope 社の CTO を務める安土氏によるFiat-Shamir変換とその注意点についての解説です。
 
-{% include youtube.html id="-vOHi5BCV-c" %}
+{% include youtube.html %}
 
 #### この動画で学べること
 

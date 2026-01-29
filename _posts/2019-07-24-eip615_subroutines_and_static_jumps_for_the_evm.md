@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/07/img-a13bdc06.jpeg
 tags: ["Ethereum", "中城元臣"]
 ---
 
-{% include youtube.html id="RKE-kkITyhk" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による、[EIP615](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-615.md)における Subroutines と Static Jump の解説です。
 

@@ -10,7 +10,7 @@ tags: ["Bitcoin", "安土 茂亨"]
 
 Chaintope 社の CTO を務める安土氏によるAssumeUTXOについての解説です。
 
-{% include youtube.html id="0OvScoDpcVw" %}
+{% include youtube.html %}
 
 #### この動画で学べること
 

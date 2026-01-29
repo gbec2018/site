@@ -8,7 +8,7 @@ thumbnail: /assets/images/2018/11/img-8df67215.jpeg
 tags: ["eltoo", "LN", "Payment Channel", "SHIGHASH_NOINPUT", "安土 茂亨"]
 ---
 
-{% include youtube.html id="kVyxOZCUoi0" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による 新しいオフチェーンコントラクトeltooとSIGHASH NOINPUTの解説です。
 

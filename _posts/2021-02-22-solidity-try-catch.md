@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/02/solidity-try-catch.jpeg
 youtube_id: _0_VCYLsMAM
 ---
 
-{% include youtube.html id="_0_VCYLsMAM" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSolidityに導入されているTry/Catchについての解説です。
 

@@ -10,7 +10,7 @@ tags: ["blockchain", "EIP-4895", "Ethereum", "Withdrawals", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSSZ Merkleizationについての解説です。
 
-{% include youtube.html id="zya9TxxA87M" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

@@ -8,7 +8,7 @@ thumbnail: /assets/images/2018/10/img-3c79c1a7.jpeg
 tags: ["Ethereum", "Plasma", "中城元臣"]
 ---
 
-{% include youtube.html id="6zNjilJ4UFk" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Ethereum のスケーラビリティに関する大きなトピックである Plasma（プラズマ） の解説です。
 

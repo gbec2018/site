@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEIP-1559に対応したTransactionの発行方法についての解説です。  
 
-{% include youtube.html id="Yqbt_fqWShk" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

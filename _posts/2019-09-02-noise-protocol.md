@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/08/img-229c4a7e.jpeg
 tags: ["Handshake", "Lightning Network", "Noise Protocol", "望月 紀生"]
 ---
 
-{% include youtube.html id="lGsso8g-F20" %}
+{% include youtube.html %}
 
 HAW International エンジニア 望月氏による Lightning Network における Noise Protocol と，それを用いたHandshakeについての解説です。
 

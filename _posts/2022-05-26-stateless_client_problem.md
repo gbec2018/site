@@ -10,7 +10,7 @@ tags: ["Ethereum", "Stateless Client"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるStateless Client Problemについての解説です。
 
-{% include youtube.html id="FErsPuwbDOk" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/05/img-60baef8f.jpeg
 tags: ["Bitcoin", "BTCPay Server", "望月 紀生"]
 ---
 
-{% include youtube.html id="ix8IoxkwMwI" %}
+{% include youtube.html %}
 
 HAW International エンジニア 望月氏による BTCPay Serverの解説です。
 

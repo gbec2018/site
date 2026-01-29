@@ -8,7 +8,7 @@ youtube_id: Ob1s_w01HT8
 thumbnail: /assets/images/2020/10/img-961378a0.jpeg
 ---
 
-{% include youtube.html id="Ob1s_w01HT8" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEthereumで提案されているAccount Abstractionについての解説です。
 

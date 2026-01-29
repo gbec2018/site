@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/01/img-0a0b2a53.jpeg
 tags: ["Ethereum", "Ethereum Transaction", "中城元臣"]
 ---
 
-{% include youtube.html id="VMY1GFYdCK4" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Ethereum Transactionの構造についての解説動画です。
 

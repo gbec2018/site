@@ -10,7 +10,7 @@ tags: ["EVM", "opcode", "Solidity", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEVM opcode Instructionについての解説です。
 
-{% include youtube.html id="kifc4Obr5BM" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

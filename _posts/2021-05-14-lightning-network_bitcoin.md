@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/05/img-5ccc2e8b.jpeg
 tags: ["Bitcoin", "gbec", "LightningNetwork"]
 ---
 
-{% include youtube.html id="_9zClmTFJG8" %}
+{% include youtube.html %}
 
 HAW International エンジニア深田氏によるLNDを使用した2者間でのチャネルの作成や送金など一連の流れを実践する動画です。
 

@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "Cryptography", "Ethereum", "安土 茂亨", "�
 
 Chaintope CTO 安土氏による公開鍵の作成に用いられる楕円曲線の点の乗算についての解説動画です。
 
-{% include youtube.html id="cJwEm5aBD2M" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

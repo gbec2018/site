@@ -10,7 +10,7 @@ tags: ["Bitcoin", "blockchain", "LND", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるLNDのgRPC/RESTインターフェースについての解説動画です。
 
-{% include youtube.html id="5PuGVFQG-dE" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

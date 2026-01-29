@@ -10,7 +10,7 @@ tags: ["Bitcoin", "安土 茂亨"]
 
 Chaintope CTO 安土氏による ブロックチェーンへのコミットメントの記録方法についての解説です。
 
-{% include youtube.html id="Qbx18xDJmrw" %}
+{% include youtube.html %}
 
 ####  この動画で学べる事
 

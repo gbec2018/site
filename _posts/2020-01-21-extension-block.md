@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Litecoin", "安土 茂亨"]
 
 Chaintope CTO 安土氏による ソフトフォークでコンセンサスに関わるあらゆる変更を可能にするExtension Blockの仕組みについての解説です。
 
-{% include youtube.html id="IpL64WIVDmc" %}
+{% include youtube.html %}
 
 # この動画で学べる事
 

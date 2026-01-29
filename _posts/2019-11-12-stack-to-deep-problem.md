@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/11/img-9f054306.jpeg
 tags: ["Ethereum", "EVM", "Solidity", "中城元臣"]
 ---
 
-{% include youtube.html id="qJGiQ3Qe3ko" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による，Solidityのコンパイル時に発生するStack To Deep エラーについて、opcodeとEVMの動作を元に解説します。
 

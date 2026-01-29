@@ -10,7 +10,7 @@ tags: ["Submarine Swaps", "深田涼太"]
 
 HAW International エンジニア深田氏による Submarine Swapsについての解説です。
 
-{% include youtube.html id="wcqrGHXWvIA" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

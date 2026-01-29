@@ -8,7 +8,7 @@ thumbnail: /assets/images/2019/07/img-4aa25476.jpeg
 tags: ["Atomic Loans", "Bitcoin", "HTCL", "安土 茂亨"]
 ---
 
-{% include youtube.html id="NsXFgE2hqHQ" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による BitcoinでHTLCを拡張し担保付き債務を構成するAtomic Loans についての解説です。
 

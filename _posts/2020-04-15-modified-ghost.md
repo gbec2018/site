@@ -8,7 +8,7 @@ youtube_id: FrDBgfgYpjM
 tags: ["Ethereum", "GHOST", "Modified GHOST"]
 ---
 
-{% include youtube.html id="FrDBgfgYpjM" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏による Ethereumで採用されているModified　GHOSTについての解説です。
 

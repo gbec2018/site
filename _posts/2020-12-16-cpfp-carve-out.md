@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/12/img-da1c90e7.jpeg
 tags: ["Bitcoin", "CPFP", "安土 茂亨"]
 ---
 
-{% include youtube.html id="XzcSIlKlQ1o" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏によるCPFPとCPFP carve outについての解説です。
 

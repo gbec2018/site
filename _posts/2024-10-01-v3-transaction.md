@@ -10,7 +10,7 @@ tags: ["Bitcoin", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるv3トランザクションリレーの解説動画です。
 
-{% include youtube.html id="MzdzqRhRwQE" %}
+{% include youtube.html %}
 
 #### この動画で学べること
 

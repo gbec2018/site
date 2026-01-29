@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/07/img-cb273ddf.png
 tags: ["Bitcoin", "ハンズオン", "深田涼太"]
 ---
 
-{% include youtube.html id="SFs44eznsic" %}
+{% include youtube.html %}
 
 HAW International エンジニア 深田氏による Transaction の作成と Broadcast の実践動画です。 
 

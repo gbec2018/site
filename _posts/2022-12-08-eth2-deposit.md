@@ -10,7 +10,7 @@ tags: ["Deposit Contract", "Ethereum", "Validator", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるEth2 Depositについての解説です。
 
-{% include youtube.html id="LC0-QN8--Zc" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

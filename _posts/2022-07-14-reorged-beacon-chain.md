@@ -10,7 +10,7 @@ tags: ["blockchain", "Ethereum", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるReorged Beacon Chainについての解説です。
 
-{% include youtube.html id="p-sLZv_kseA" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

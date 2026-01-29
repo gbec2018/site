@@ -9,7 +9,7 @@ thumbnail: /assets/images/2024/11/img-3b2bea2c.jpeg
 
 HAW International エンジニア深田氏によるLNDのルーティングアルゴリズムについての解説です。
 
-{% include youtube.html id="Vdf2bcs5nM8" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

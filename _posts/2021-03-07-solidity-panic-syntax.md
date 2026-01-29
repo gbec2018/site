@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/03/img-454a0414.jpeg
 tags: ["blockchain", "Ethereum", "中城元臣"]
 ---
 
-{% include youtube.html id="9yb0NDG2A5I" %}
+{% include youtube.html %}
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるSolidityのPanic構文についての解説です。
 

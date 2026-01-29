@@ -10,7 +10,7 @@ tags: ["Ethereum", "Upgradable", "中城元臣"]
 
 Chaintope 社の Chief Ethereum Researcher を務める中城氏によるERC-6551にみるUpgradableの可能性についての解説です。
 
-{% include youtube.html id="yXzKl8r1L60" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

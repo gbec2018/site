@@ -8,7 +8,7 @@ thumbnail: /assets/images/2020/07/Screenshot-from-2020-07-16-13-16-20.png
 tags: ["Bitcoin", "Point Time Locked Contracts", "PTLC", "安土 茂亨"]
 ---
 
-{% include youtube.html id="L-WEIsajJ9Y" %}
+{% include youtube.html %}
 
 Chaintope CTO 安土氏による PTLC(Point Time Locked Contracts)についての解説です。
 

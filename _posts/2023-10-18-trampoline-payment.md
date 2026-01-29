@@ -10,7 +10,7 @@ tags: ["Bitcoin", "Lightning Network", "Trampoline Payment", "安土 茂亨"]
 
 Chaintope CTO 安土氏によるTrampoline Paymentについての解説動画です。
 
-{% include youtube.html id="dI7yVJnve6c" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 

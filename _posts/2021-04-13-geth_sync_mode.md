@@ -8,7 +8,7 @@ thumbnail: /assets/images/2021/04/Screenshot-from-2021-04-13-10-45-06.png
 tags: ["blockchain", "Ethereum", "安土 茂亨"]
 ---
 
-{% include youtube.html id="J2bC0NP251U" %}
+{% include youtube.html %}
 
 chaintope CTO 安土氏によるEthereumクライアントのGethで利用可能なチェーン同期方法についての解説です。  
 
