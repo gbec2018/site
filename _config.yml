@@ -1,8 +1,8 @@
 # Jekyll Configuration for GBEC
 title: GBEC - Go Blockchain Engineers Community
 description: ブロックチェーンエンジニアのためのコミュニティ
-url: "https://gbec2018.github.io"
-baseurl: "/site"
+url: "https://goblockchain.network"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
