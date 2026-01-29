@@ -5,6 +5,7 @@ date: 2024-12-04
 categories: [video]
 youtube_id: Vdf2bcs5nM8
 thumbnail: /assets/images/2024/11/img-3b2bea2c.jpeg
+tags: ["Bitcoin", "LND", "Lightning Network", "深田涼太"]
 ---
 
 HAW International エンジニア深田氏によるLNDのルーティングアルゴリズムについての解説です。

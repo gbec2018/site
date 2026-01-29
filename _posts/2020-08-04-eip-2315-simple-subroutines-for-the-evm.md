@@ -5,6 +5,7 @@ date: 2020-08-04
 categories: [video]
 youtube_id: Gg4OMCQAq5s
 thumbnail: /assets/images/2020/07/img-4f8ac477.jpeg
+tags: ["Ethereum", "中城元臣"]
 ---
 
 {% include youtube.html %}

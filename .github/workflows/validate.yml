@@ -1,0 +1,31 @@
+name: Validate Posts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'
+      - 'assets/images/**'
+      - 'scripts/validate-posts.rb'
+  pull_request:
+    paths:
+      - '_posts/**'
+      - 'assets/images/**'
+      - 'scripts/validate-posts.rb'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+
+      - name: Validate posts
+        run: ruby scripts/validate-posts.rb _posts assets

@@ -6,6 +6,7 @@ categories: [video]
 permalink: /2021/02/solidity-try-catch-　/
 thumbnail: /assets/images/2021/02/solidity-try-catch.jpeg
 youtube_id: _0_VCYLsMAM
+tags: ["Ethereum", "中城元臣"]
 ---
 
 {% include youtube.html %}
