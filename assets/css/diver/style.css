@@ -8786,4 +8786,63 @@ a.header_message_wrap:hover .header_message_text{
   font-family: fontAwesome;
 }
 
+/****************************************
 
+    SNS Share Buttons
+
+*****************************************/
+
+.share_sns {
+    margin: 30px 0;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 5px;
+}
+
+.share_sns_title {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.share_sns_list {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.share_sns_item a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: opacity 0.3s;
+}
+
+.share_sns_item a:hover {
+    opacity: 0.8;
+}
+
+.share_twitter a {
+    background: #000;
+}
+
+.share_facebook a {
+    background: #1877f2;
+}
+
+.share_hatena a {
+    background: #00a4de;
+    font-size: 14px;
+    font-weight: bold;
+}

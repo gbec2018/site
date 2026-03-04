@@ -42,6 +42,28 @@ layout: default
         {{ content }}
       </div>
     </section>
+
+    <!-- SNS Share Buttons -->
+    <div class="share_sns">
+      <span class="share_sns_title">Share</span>
+      <ul class="share_sns_list">
+        <li class="share_sns_item share_twitter">
+          <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}" target="_blank" rel="nofollow noopener" title="Xでシェア">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </li>
+        <li class="share_sns_item share_facebook">
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" target="_blank" rel="nofollow noopener" title="Facebookでシェア">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </li>
+        <li class="share_sns_item share_hatena">
+          <a href="https://b.hatena.ne.jp/add?mode=confirm&url={{ page.url | absolute_url | url_encode }}" target="_blank" rel="nofollow noopener" title="はてなブックマーク">
+            <i class="fa fa-bookmark"></i> B!
+          </a>
+        </li>
+      </ul>
+    </div>
   </article>
 
   <!-- Navigation -->
