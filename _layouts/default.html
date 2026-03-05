@@ -4,17 +4,23 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{% assign page_description = page.description | default: page.excerpt | default: site.description | strip_html | truncate: 160 %}
 <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-<meta name="description" content="{{ site.description }}">
-<!-- Diver OGP -->
+<meta name="description" content="{{ page_description }}">
+<!-- OGP -->
 <meta property="og:locale" content="ja_JP">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:description" content="{{ site.description }}">
+<meta property="og:description" content="{{ page_description }}">
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-{% if page.thumbnail %}<meta property="og:image" content="{{ page.thumbnail | absolute_url }}">{% endif %}
+<meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | absolute_url }}{% else %}{{ '/assets/images/gbec-logo.png' | absolute_url }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
-<!-- / Diver OGP -->
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{{ page_description }}">
+<meta name="twitter:image" content="{% if page.thumbnail %}{{ page.thumbnail | absolute_url }}{% else %}{{ '/assets/images/gbec-logo.png' | absolute_url }}{% endif %}">
+<!-- / OGP -->
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="shortcut icon" href="{{ '/assets/images/gbec-icon.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/images/gbec-icon.png' | relative_url }}">
