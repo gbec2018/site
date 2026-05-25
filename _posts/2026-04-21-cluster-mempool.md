@@ -3,7 +3,7 @@ layout: post
 title: "【動画で学ぶブロックチェーン】クラスターmempool -安土 茂亨氏"
 date: 2026-04-21
 categories: [video]
-youtube_id: z0JIdGZ979U
+youtube_id: zdeRVVqVQaI
 thumbnail: /assets/images/2026/04/cluster-mempool.png
 tags: ["Bitcoin", "安土 茂亨"]
 ---
