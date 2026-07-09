@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【動画で学ぶブロックチェーン】【Ethereum】EIP-7702 Broken invariants 4-中条元臣
+title: "【動画で学ぶブロックチェーン】【Ethereum】EIP-7702 Broken invariants 4-中城元臣
 date: 2026-07-08
 categories: [video]
 youtube_id: 53qLSbs--cg
@@ -8,7 +8,7 @@ thumbnail: /assets/images/2026/06/Broken-invarants.png
 tags: ["クラウド", "ブロックチェーン", "AI"]
 ---
 
-中条 元臣氏による「【動画で学ぶブロックチェーン】【Ethereum】EIP-7702 Broken invariants 4」についての解説です。
+中城 元臣氏による「【動画で学ぶブロックチェーン】【Ethereum】EIP-7702 Broken invariants 4」についての解説です。
 
 {% include youtube.html id="53qLSbs--cg"　%}
 
