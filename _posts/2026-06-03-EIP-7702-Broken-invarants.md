@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【動画で学ぶブロックチェーン】【Ethereum】EIP-7702 Broken invariants 4-中城元臣
+title: "【動画で学ぶブロックチェーン】【Ethereum】EIP-7702 Broken invariants 4-中城元臣"
 date: 2026-06-03
 categories: [video]
 youtube_id: 53qLSbs--cg
@@ -10,7 +10,7 @@ tags: ["クラウド", "ブロックチェーン", "AI"]
 
 中城 元臣氏による「【動画で学ぶブロックチェーン】【Ethereum】EIP-7702 Broken invariants 4」についての解説です。
 
-{% include youtube.html id="53qLSbs--cg"　%}
+{% include youtube.html id="53qLSbs--cg" %}
 
 ### この動画で学べる事
 00:00 【Ethereum】EIP-7702 Broken invariants 4
@@ -21,7 +21,7 @@ tags: ["クラウド", "ブロックチェーン", "AI"]
 05:07　EOAの判別方法
 07:20　EOA判別はアンチパターン
 
-####動画中で出てきたリンク
+#### 動画中で出てきたリンク
 特になし
 
 #### GBEC について
