@@ -146,6 +146,9 @@ class PostValidator
     thumbnail = frontmatter['thumbnail']
     return unless thumbnail
 
+    # Remote thumbnails (e.g. YouTube) are served as-is by Jekyll's url filters
+    return if thumbnail.to_s.start_with?('http://', 'https://')
+
     # Remove leading slash for file path
     thumbnail_path = thumbnail.sub(%r{^/}, '')
     full_path = File.join(File.dirname(@posts_dir), thumbnail_path)
