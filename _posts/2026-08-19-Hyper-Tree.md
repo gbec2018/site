@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "【動画で学ぶブロックチェーン】Hyper Tree-安土茂亨"
-date: 2026-07-26
+title: "【動画で学ぶブロックチェーン】Hyper Tree-安土 茂亨"
+date: 2026-08-19
 categories: [video]
 youtube_id: FxaomSTZQ4U
-thumbnail: /assets/images/2026/07/Hyper-tree.jpeg
-tags: ["Cryptography", "PQC", "安土茂亨"]
+thumbnail: /assets/images/2026/08/Hyper-tree.jpeg
+tags: ["Cryptography", "PQC", "安土 茂亨"]
 ---
 
 安土 茂亨氏による
 Hyper Treeについての解説です。
 
-{% include youtube.html id="FxaomSTZQ4U" %}
+{% include youtube.html %}
 
 #### この動画で学べる事
 - 00:20 XMSS
@@ -23,5 +23,4 @@ Hyper Treeについての解説です。
 
 
 #### 動画中で出てきたリンク
-https://goblockchain.network/2026/03/wots-plus/
-(【動画で学ぶブロックチェーン】W-OTS+ -安土 茂亨氏)
+- [【動画で学ぶブロックチェーン】W-OTS+ -安土 茂亨氏](https://goblockchain.network/2026/03/wots-plus/)
