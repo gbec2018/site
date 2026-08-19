@@ -4,14 +4,14 @@ title: "【動画で学ぶブロックチェーン】Hyper Tree-安土茂亨"
 date: 2026-07-26
 categories: [video]
 youtube_id: FxaomSTZQ4U
-thumbnail: /assets/images/2026/07/Hyper-Tree.jpeg
-tags: ["Ethereum", "安土茂亨"]
+thumbnail: /assets/images/2026/07/Hyper-tree.jpeg
+tags: ["Cryptography", "PQC", "安土茂亨"]
 ---
 
 安土 茂亨氏による
 Hyper Treeについての解説です。
 
-{% include youtube.html id="53qLSbs--cg" %}
+{% include youtube.html id="FxaomSTZQ4U" %}
 
 #### この動画で学べる事
 - 00:20 XMSS
